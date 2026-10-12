@@ -4,12 +4,12 @@ A catalog of original songs and cues from Benny Thomas and the bands
 (Cornfield, MC 2 Hour Shower, Ionic, Disappearance, Dirt Farmers, Projectyles,
 Mr Greenwise, DS Analog, DJ Rockmixx, Green Wise Records).
 
-Live: https://djbenthomas.github.io/music-for-film/
+Live: https://greenwiserecords.github.io/music-for-film/
 
 ## Editing without touching code
 
 Open the site, hit **Manage**, paste a GitHub token (repo access on
-`djbenthomas/music-for-film`), and you can:
+`GreenwiseRecords/music-for-film`), and you can:
 
 - **Upload a song** — pick a category, title it, tag it, choose an audio file.
   The file is committed to `audio/` and the entry is added to `data/catalog.json`.

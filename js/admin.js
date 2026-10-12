@@ -200,6 +200,10 @@
       else window.afterRender();
     };
     $("#closeManage").onclick = () => $("#manageBtn").click();
+    $("#closeManage2").onclick = () => $("#manageBtn").click();
+    // tapping the dark area behind the panel, or pressing Esc, also gets you out
+    $("#manage").addEventListener("click", (e) => { if (e.target.id === "manage" && manage) $("#manageBtn").click(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && manage) $("#manageBtn").click(); });
     $("#saveToken").onclick = () => { localStorage.setItem(LS, $("#token").value.trim()); $("#token").value = ""; setPanel(); fillCats(); };
     $("#clearToken").onclick = () => { localStorage.removeItem(LS); setPanel(); };
     $("#addTrack").onclick = addTrack;

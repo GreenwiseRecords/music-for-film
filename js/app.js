@@ -1,5 +1,5 @@
 /* Music for Film — catalog UI, player, search. Vanilla JS, no build step. */
-const REPO = { owner: "djbenthomas", name: "music-for-film", branch: "main" };
+const REPO = { owner: "GreenwiseRecords", name: "music-for-film", branch: "main" };
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));

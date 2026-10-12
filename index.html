@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Music for Film — Benny Thomas</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">
+    <span class="dot"></span>
+    <h1>Music for Film</h1>
+    <p id="tagline">A catalog of original songs &amp; cues — Benny Thomas and the bands</p>
+  </div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search songs, tags, projects…" autocomplete="off">
+    <button id="manageBtn" class="ghost">Manage</button>
+  </div>
+</header>
+
+<div id="bar" class="bar">
+  <span id="count"></span>
+  <span class="spacer"></span>
+  <button id="playAll" class="ghost small">▶ Play category</button>
+  <button id="shuffle" class="ghost small">⤨ Shuffle</button>
+  <span id="status" class="status"></span>
+</div>
+
+<main>
+  <aside id="cats" class="cats"></aside>
+  <section id="list" class="list"></section>
+</main>
+
+<footer id="player" class="player">
+  <button id="prev" class="ghost">⏮</button>
+  <button id="pp" class="play">▶</button>
+  <button id="next" class="ghost">⏭</button>
+  <div class="now">
+    <div id="nowTitle">Nothing playing</div>
+    <div id="nowMeta" class="meta"></div>
+    <div class="seekwrap"><input id="seek" type="range" min="0" max="1000" value="0"><span id="time" class="meta">0:00 / 0:00</span></div>
+  </div>
+  <audio id="audio" preload="none"></audio>
+</footer>
+
+<!-- ============ MANAGE PANEL ============ -->
+<div id="manage" class="modal" hidden>
+  <div class="sheet">
+    <div class="sheet-head">
+      <h2>Manage catalog</h2>
+      <button id="closeManage" class="ghost">✕</button>
+    </div>
+
+    <div id="authBox" class="pad">
+      <p class="meta">Editing writes straight to the GitHub repo, so this site needs a token with access to
+        <b>djbenthomas/music-for-film</b>. It's kept in this browser only — never in the page or the repo.</p>
+      <input id="token" type="password" placeholder="Paste GitHub token (repo access)">
+      <div class="row">
+        <button id="saveToken" class="primary">Save token</button>
+        <button id="clearToken" class="ghost">Forget</button>
+        <span id="authState" class="meta"></span>
+      </div>
+    </div>
+
+    <div id="work" class="pad" hidden>
+      <div class="card">
+        <h3>Add a song</h3>
+        <div class="grid">
+          <label>Title<input id="tTitle" placeholder="Song title"></label>
+          <label>Category<select id="tCat"></select></label>
+          <label>Tag(s)<input id="tTags" placeholder="e.g. instrumental, upbeat, country, cue"></label>
+          <label>Note<input id="tNote" placeholder="optional — version, session, key…"></label>
+        </div>
+        <input id="tFile" type="file" accept="audio/*,.mp3,.m4a,.wav,.aif,.aiff">
+        <div class="row">
+          <button id="addTrack" class="primary">Upload &amp; add</button>
+          <span id="upStatus" class="meta"></span>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Categories</h3>
+        <div class="row">
+          <input id="cName" placeholder="New category name">
+          <input id="cBlurb" placeholder="short description (optional)">
+          <button id="addCat" class="primary">Add</button>
+        </div>
+        <ul id="catAdmin" class="catadmin"></ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+<script src="js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,4877 @@
+{
+ "updated": "2026-10-12",
+ "categories": [
+  {
+   "id": "cornfield",
+   "name": "Cornfield",
+   "blurb": "Alt-country / rock outfit. Cornfield Bluse + Lassen sessions included."
+  },
+  {
+   "id": "mc-2-hour-shower",
+   "name": "MC 2 Hour Shower",
+   "blurb": "Hip hop project — beats, bars, club tracks."
+  },
+  {
+   "id": "ionic",
+   "name": "Ionic",
+   "blurb": "Rock trio — Price You Pay / Crush / Dudebro."
+  },
+  {
+   "id": "disappearance",
+   "name": "Disappearance",
+   "blurb": "Hard rock band — Spun For A Loop era + live at Nicholby's."
+  },
+  {
+   "id": "dirt-farmers",
+   "name": "Dirt Farmers",
+   "blurb": "Experimental hip hop EP era."
+  },
+  {
+   "id": "projectyles",
+   "name": "Projectyles",
+   "blurb": "Projectyles — full band catalog."
+  },
+  {
+   "id": "mrgreenwise",
+   "name": "Mr Greenwise",
+   "blurb": "Mr Greenwise / Green Wise recordings."
+  },
+  {
+   "id": "dsanalog",
+   "name": "DS Analog",
+   "blurb": "DS Analog instrumentals & cues."
+  },
+  {
+   "id": "dj-rockmixx",
+   "name": "DJ Rockmixx",
+   "blurb": "DJ Rockmixx mix / production work."
+  },
+  {
+   "id": "benny-thomas",
+   "name": "Benny Thomas",
+   "blurb": "Solo catalog — the country/rock songbook."
+  },
+  {
+   "id": "the-spies",
+   "name": "The Spies",
+   "blurb": "No files found yet — upload when ready."
+  },
+  {
+   "id": "kegs-kenobi",
+   "name": "Kegs Kenobi",
+   "blurb": "No files found yet — upload when ready."
+  },
+  {
+   "id": "green-wise-records",
+   "name": "Green Wise Records",
+   "blurb": "Green Wise Records sides."
+  },
+  {
+   "id": "unfiled",
+   "name": "Unfiled",
+   "blurb": "Needs a home."
+  }
+ ],
+ "tracks": [
+  {
+   "id": "benny-thomas-ain-t-nobody-mix-final-v-1",
+   "title": "Ain't Nobody - Mix Final V",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "Benny Thomas band/Unknown Album/Ain't Nobody - Mix Final V2.mp3"
+  },
+  {
+   "id": "benny-thomas-ain-t-nobody-ever-record-version-2",
+   "title": "Ain't Nobody Ever - Record Version",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/05 Ain't Nobody Ever - Record Version.mp3"
+  },
+  {
+   "id": "benny-thomas-aint-going-down-back-track-3",
+   "title": "aint going down back track",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:01",
+   "src": "benny thomas click tracks/Unknown Album/aint going down back track.mp3"
+  },
+  {
+   "id": "benny-thomas-aint-mad-at-ya-4",
+   "title": "aint mad at ya",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:23",
+   "src": "Benny Thomas band/Unknown Album/01 aint mad at ya 2024.mp3"
+  },
+  {
+   "id": "benny-thomas-aint-mad-at-ya-no-clik-e-gtr-5",
+   "title": "aint mad at ya no clik e gtr",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:21",
+   "src": "Benny Thomas band/Unknown Album/01 aint mad at ya no clik e gtr.mp3"
+  },
+  {
+   "id": "benny-thomas-aint-nobodty-6",
+   "title": "Aint Nobodty",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:49",
+   "src": "Benny Thomas band/Unknown Album/Aint Nobodty.mp3"
+  },
+  {
+   "id": "benny-thomas-aint-nobody-7",
+   "title": "aint nobody",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Benny Thomas band/Unknown Album/aint nobody 3.mp3"
+  },
+  {
+   "id": "benny-thomas-as-a-memory-new-vrs-8",
+   "title": "as a memory new vrs",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:26",
+   "src": "Benny Thomas band/Unknown Album/as a memory new vrs.mp3"
+  },
+  {
+   "id": "benny-thomas-as-a-memory-stems-9",
+   "title": "as a memory stems",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:24",
+   "src": "Beny Thomas Band/Benny Thomas Demos/01 as a memory stems.mp3"
+  },
+  {
+   "id": "benny-thomas-as-a-mory-10",
+   "title": "as a mory",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:11",
+   "src": "Benny Thomas/Unknown Album/as a mory.mp3"
+  },
+  {
+   "id": "benny-thomas-as-country-asx-better-version-11",
+   "title": "as country asx better version",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:33",
+   "src": "Benny Thomas band/Unknown Album/01 as country asx better version_.mp3"
+  },
+  {
+   "id": "benny-thomas-back-home-to-palmdale-12",
+   "title": "back home to palmdale",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:00",
+   "src": "Benny Thomas/Unknown Album/back home to palmdale.mp3"
+  },
+  {
+   "id": "benny-thomas-beer-made-me-3-new-solo-13",
+   "title": "Beer made me 3 new solo",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:04",
+   "src": "Benny Thomas band/Unknown Album/Beer made me 3 new solo.m4a"
+  },
+  {
+   "id": "benny-thomas-beer-made-me-dave-final-14",
+   "title": "Beer made me Dave final",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:43",
+   "src": "Benny Thomas band/Unknown Album/Beer made me Dave final.m4a"
+  },
+  {
+   "id": "benny-thomas-benny-thomas-intro-15",
+   "title": "benny thomas INTRO",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:24",
+   "src": "Benny Thomas/Unknown Album/benny thomas INTRO.mp3"
+  },
+  {
+   "id": "benny-thomas-bennythomas-bass-16",
+   "title": "bennythomas bass",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:56",
+   "src": "Benny Thomas/Unknown Album/bennythomas bass_9.mp3"
+  },
+  {
+   "id": "benny-thomas-big-ole-truck-iphone-dave-final-17",
+   "title": "Big Ole truck iphone dave final",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:02",
+   "src": "Benny Thomas band/Unknown Album/Big Ole truck iphone dave final.m4a"
+  },
+  {
+   "id": "benny-thomas-blue-aint-your-color-clikc-track-18",
+   "title": "blue aint your color - clikc track",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:54",
+   "src": "benny thomas click tracks/Unknown Album/blue aint your color - clikc track.mp3"
+  },
+  {
+   "id": "benny-thomas-body-like-a-click-track-19",
+   "title": "body like a click track",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:48",
+   "src": "benny thomas click tracks/Unknown Album/body like a click track.mp3"
+  },
+  {
+   "id": "benny-thomas-break-up-song-20",
+   "title": "BREAK UP SONG",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:45",
+   "src": "Benny Thomas/Unknown Album/01 BREAK UP SONG.mp3"
+  },
+  {
+   "id": "benny-thomas-breakdown-live-21",
+   "title": "breakdown live",
+   "cat": "benny-thomas",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:27",
+   "src": "Benny Thomas/Unknown Album/breakdown live.mp3"
+  },
+  {
+   "id": "benny-thomas-can-t-take-you-anywhere-drin-22",
+   "title": "Can't Take You Anywhere - drin",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "Benny Thomas band/Unknown Album/01 Can't Take You Anywhere - drin.mp3"
+  },
+  {
+   "id": "benny-thomas-challenge-accepted-instr-23",
+   "title": "Challenge Accepted - instr",
+   "cat": "benny-thomas",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:02",
+   "src": "Benny Thomas band/Unknown Album/01 Challenge Accepted - instr.mp3"
+  },
+  {
+   "id": "benny-thomas-chicken-click-track-24",
+   "title": "CHICKEN CLICK TRACK",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:52",
+   "src": "Benny Thomas Back up tracks/Unknown Album/CHICKEN CLICK TRACK.mp3"
+  },
+  {
+   "id": "benny-thomas-cocaine-and-hookers-25",
+   "title": "cocaine and hookers",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:18",
+   "src": "Benny Thomas band/Unknown Album/01 cocaine and hookers.mp3"
+  },
+  {
+   "id": "benny-thomas-cocaine-and-hookers-stems-all-26",
+   "title": "cocaine and Hookers stems all",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "Beny Thomas Band/Benny Thomas Demos/01 cocaine and Hookers stems all..mp3"
+  },
+  {
+   "id": "benny-thomas-cocaine-and-hookers-wqith-vox-27",
+   "title": "cocaine and hookers wqith vox",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Benny Thomas band/Unknown Album/01 cocaine and hookers wqith vox.mp3"
+  },
+  {
+   "id": "benny-thomas-cocaine-and-hookerz-vox-28",
+   "title": "cocaine and hookerz vox",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "Benny Thomas band/Unknown Album/01 cocaine and hookerz vox_2.mp3"
+  },
+  {
+   "id": "benny-thomas-come-back-29",
+   "title": "come back",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:49",
+   "src": "Benny Thomas/Unknown Album/08 come back.mp3"
+  },
+  {
+   "id": "benny-thomas-coming-to-agenew-filtered-30",
+   "title": "coming to agenew_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:21",
+   "src": "Benny Thomas/Unknown Album/coming to agenew_filtered001.mp3"
+  },
+  {
+   "id": "benny-thomas-complee-myself-31",
+   "title": "complee myself",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:49",
+   "src": "Benny Thomas/Unknown Album/complee myself.mp3"
+  },
+  {
+   "id": "benny-thomas-counrtyr-girl-click-32",
+   "title": "COUNRTYR GIRL CLICK",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:50",
+   "src": "Benny Thomas Back up tracks/Unknown Album/COUNRTYR GIRL CLICK.mp3"
+  },
+  {
+   "id": "benny-thomas-country-girl-fixd-33",
+   "title": "COUNTRY GIRL FIXD",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:50",
+   "src": "Benny Thomas Back up tracks/Unknown Album/COUNTRY GIRL FIXD 2.mp3"
+  },
+  {
+   "id": "benny-thomas-daddy-s-at-the-bar-34",
+   "title": "Daddy's At The Bar",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:17",
+   "src": "Benny Thomas band/Unknown Album/Daddy's At The Bar 2.mp3"
+  },
+  {
+   "id": "benny-thomas-daddy-s-at-the-bar-record-version-35",
+   "title": "Daddy's At The Bar - Record version",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:17",
+   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/04 Daddy's At The Bar - Record version.mp3"
+  },
+  {
+   "id": "benny-thomas-damn-you-look-good-challenge-accepted-36",
+   "title": "damn you look good Challenge Accepted",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:51",
+   "src": "Benny Thomas band/Unknown Album/01 damn you look good Challenge Accepted -.mp3"
+  },
+  {
+   "id": "benny-thomas-did-me-bad-37",
+   "title": "did me bad",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:13",
+   "src": "Benny Thomas/Unknown Album/did me bad.mp3"
+  },
+  {
+   "id": "benny-thomas-dj-etc-uno-commercial-38",
+   "title": "dj etc uno commercial",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:01",
+   "src": "Benny Thomas/Unknown Album/05 dj etc uno commercial.mp3"
+  },
+  {
+   "id": "benny-thomas-djetc-rizz-same-old-club-filtered-39",
+   "title": "djetc-Rizz-Same Old Club_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:19",
+   "src": "Benny Thomas/Unknown Album/djetc-Rizz-Same Old Club_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-down-low-benny-thomas-40",
+   "title": "down low benny thomas",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:17",
+   "src": "Benny Thomas/Unknown Album/down low benny thomas.mp3"
+  },
+  {
+   "id": "benny-thomas-down-to-the-honkytonk-clik-41",
+   "title": "down to the honkytonk clik",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:07",
+   "src": "benny thomas click tracks/Unknown Album/down to the honkytonk clik.mp3"
+  },
+  {
+   "id": "benny-thomas-drink-when-i-smoke-42",
+   "title": "drink when i smoke",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Benny Thomas band/Unknown Album/drink when i smoke.mp3"
+  },
+  {
+   "id": "benny-thomas-every-backroad-new-stems-43",
+   "title": "every backroad new stems",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:42",
+   "src": "Beny Thomas Band/Benny Thomas Demos/01 every backroad new stems.mp3"
+  },
+  {
+   "id": "benny-thomas-feet-high-and-risin-a-c-d-e-a-44",
+   "title": "feet high and risin A -C-D - E -A",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:11",
+   "src": "Benny thomas blues commotion/Unknown Album/5 feet high and risin A -C-D - E -A.mp3"
+  },
+  {
+   "id": "benny-thomas-gamez-ben-45",
+   "title": "Gamez ben",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:23",
+   "src": "Benny Thomas/Unknown Album/Gamez ben 1.mp3"
+  },
+  {
+   "id": "benny-thomas-get-drubk-and-love-down-low-benny-thomas-idea-46",
+   "title": "get drubk and love down low benny thomas idea",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:43",
+   "src": "Benny Thomas/Unknown Album/get drubk and love down low benny thomas idea.mp3"
+  },
+  {
+   "id": "benny-thomas-get-drunk-and-love-47",
+   "title": "GET DRUNK AND LOVE",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "Benny Thomas/Unknown Album/GET DRUNK AND LOVE.mp3"
+  },
+  {
+   "id": "benny-thomas-gone-be-ghood-filtered-48",
+   "title": "gone be ghood]_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:30",
+   "src": "Benny Thomas/Unknown Album/gone be ghood]_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-good-luck-mix-v-49",
+   "title": "Good Luck Mix V",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:59",
+   "src": "Benny Thomas/Benny Thomas/01 Good Luck Mix V3.mp3"
+  },
+  {
+   "id": "benny-thomas-good-luck-with-that-50",
+   "title": "GOOD LUCK WITH THAT",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:50",
+   "src": "Benny Thomas/Unknown Album/GOOD LUCK WITH THAT.mp3"
+  },
+  {
+   "id": "benny-thomas-good-luck-with-that-mix-final-e-d-acb-e-51",
+   "title": "Good Luck With That - Mix Final -E D-ACB E",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:59",
+   "src": "Benny Thomas/Unknown Album/Good Luck With That - Mix Final -E D-ACB E..wav"
+  },
+  {
+   "id": "benny-thomas-grouge-live-march-29-52",
+   "title": "Grouge live march 29",
+   "cat": "benny-thomas",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "29:13",
+   "src": "Benny Thomas/Unknown Album/Grouge live march 29 90.mp3"
+  },
+  {
+   "id": "benny-thomas-happy-birthday-blah-blah-blah-53",
+   "title": "happy birthday blah blah blah",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:35",
+   "src": "Benny Thomas/Unknown Album/happy birthday blah blah blah.mp3"
+  },
+  {
+   "id": "benny-thomas-he-just-wants-to-54",
+   "title": "he just wants to",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:48",
+   "src": "Benny Thomas/Unknown Album/he just wants to 2.mp3"
+  },
+  {
+   "id": "benny-thomas-he-just-wants-to-dgad-bridge-in-a-55",
+   "title": "HE JUST WANTS TO ^%$# DGAD BRIDGE IN A",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:43",
+   "src": "Benny Thomas/Unknown Album/HE JUST WANTS TO ^%$#  DGAD   BRIDGE IN A.mp3"
+  },
+  {
+   "id": "benny-thomas-hero-in-the-bar-56",
+   "title": "Hero in the bar",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "Benny Thomas/Unknown Album/Hero in the bar 320.mp3"
+  },
+  {
+   "id": "benny-thomas-hey-summer-stems-whole-song-57",
+   "title": "Hey Summer Stems whole song",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:59",
+   "src": "Beny Thomas Band/Benny Thomas Demos/01 Hey Summer Stems whole song.mp3"
+  },
+  {
+   "id": "benny-thomas-home-to-palmdale-5-with-keys-filtered-58",
+   "title": "home to palmdale 5 with keys_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:00",
+   "src": "Benny Thomas/Unknown Album/home to palmdale 5 with keys_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-i-forgot-how-to-flirt-59",
+   "title": "I forgot how to flirt",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:30",
+   "src": "Benny Thomas/Unknown Album/I forgot how to flirt.mp3"
+  },
+  {
+   "id": "benny-thomas-i-need-you-now-live-60",
+   "title": "I need you now Live",
+   "cat": "benny-thomas",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:05",
+   "src": "Benny thomas and bella mikes party 2011/Unknown Album/I need you now Live.mp3"
+  },
+  {
+   "id": "benny-thomas-i-trust-in-god-61",
+   "title": "i trust in God",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:47",
+   "src": "Benny Thomas/Unknown Album/i trust in God.mp3"
+  },
+  {
+   "id": "benny-thomas-i-wanna-go-fast-62",
+   "title": "i wanna go fast",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:34",
+   "src": "Benny Thomas band/Unknown Album/i wanna go fast.mp3"
+  },
+  {
+   "id": "benny-thomas-i-wanna-go-fast-923-1-for-corgis-63",
+   "title": "I Wanna Go Fast -923_1 for Corgis",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "Benny Thomas band/Unknown Album/01 I Wanna Go Fast -923_1 for Corgis.mp3"
+  },
+  {
+   "id": "benny-thomas-i-wanna-go-fast-high-winter-64",
+   "title": "I Wanna Go Fast -high winter",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "Benny Thomas band/Unknown Album/01 I Wanna Go Fast -high winter 2.mp3"
+  },
+  {
+   "id": "benny-thomas-i-was-drunk-65",
+   "title": "i was drunk",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:44",
+   "src": "Benny Thomas ideas/Unknown Album/i was drunk.mp3"
+  },
+  {
+   "id": "benny-thomas-i-was-drunk-and-i-m-sorry-fi-66",
+   "title": "I Was Drunk And I'm Sorry - Fi",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:41",
+   "src": "Benny Thomas band/Unknown Album/01 I Was Drunk And I'm Sorry - Fi.mp3"
+  },
+  {
+   "id": "benny-thomas-i-l-stop-this-song-67",
+   "title": "I'L STOP THIS SONG",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:51",
+   "src": "Benny Thomas/Unknown Album/I'L STOP THIS SONG.mp3"
+  },
+  {
+   "id": "benny-thomas-i-l-stop-this-song-c-f-f-c-a-ff-c-bridge-g-a-f-68",
+   "title": "I'L STOP THIS SONG C# F F# C# A#FF#C# BRIDGE G# A# F#",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:51",
+   "src": "Benny Thomas/Unknown Album/I'L STOP THIS SONG  C# F F# C#    A#FF#C#   BRIDGE G# A# F#.mp3"
+  },
+  {
+   "id": "benny-thomas-i-l-stop-this-song-original-key-c-f-f-c-a-ff-c-bridge-g-a-f-69",
+   "title": "I'L STOP THIS SONG original key. C# F F# C# A#FF#C# BRIDGE G# A# F#",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:51",
+   "src": "Benny Thomas band/Unknown Album/I'L STOP THIS SONG original key.  C# F F# C#    A#FF#C#   BRIDGE G# A# F#.mp3"
+  },
+  {
+   "id": "benny-thomas-i-m-gonna-miss-her-custom-backing-track-70",
+   "title": "I'm Gonna Miss Her Custom Backing Track+",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:20",
+   "src": "Benny Thomas Back up tracks/Karaoke Version/17053 I'm Gonna Miss Her Custom Backing Track+1.mp3"
+  },
+  {
+   "id": "benny-thomas-in-c-a-little-more-country-than-backing-track-1-c-fg-chrs-fc-71",
+   "title": "IN C_ A Little More Country Than Backing Track+1 C FG CHRS FCDEF",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:55",
+   "src": "Benny Thomas Back up tracks/Karaoke Version/25724 IN C_  A Little More Country Than  Backing Track+1   C FG   CHRS FCDEF.mp3"
+  },
+  {
+   "id": "benny-thomas-in-love-with-someone-72",
+   "title": "in love with someone",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:22",
+   "src": "Benny Thomas ideas/Unknown Album/in love with someone.mp3"
+  },
+  {
+   "id": "benny-thomas-into-that-kinda-really-pretty-girls-08-73",
+   "title": "Into that kinda Really Pretty Girls 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:15",
+   "src": "Benny Thomas band/Unknown Album/01 Into that kinda Really Pretty Girls 08-04-2021.mp3"
+  },
+  {
+   "id": "benny-thomas-into-that-kinda-thang-inst-74",
+   "title": "into that kinda thang inst",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:15",
+   "src": "Benny Thomas band/Unknown Album/into that kinda thang inst.mp3"
+  },
+  {
+   "id": "benny-thomas-into-that-kinda-w-5-vox-2-75",
+   "title": "into that kinda w 5 vox_2",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:20",
+   "src": "Benny Thomas band/Unknown Album/01 into that kinda w 5 vox_2 202.mp3"
+  },
+  {
+   "id": "benny-thomas-inyto-that-take-76",
+   "title": "inyto that take",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "Benny Thomas band/Unknown Album/inyto that take 1.mp3"
+  },
+  {
+   "id": "benny-thomas-just-have-some-fun-e-chrs-aceg-77",
+   "title": "Just Have some Fun. E. chrs. ACEG",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "Benny Thomas band/Unknown Album/01 Just Have some Fun. E. chrs. ACEG.mp3"
+  },
+  {
+   "id": "benny-thomas-lake-views-no-vox-08-78",
+   "title": "Lake Views - No Vox 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:07",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Lake Views - No Vox 08-04-2021.mp3"
+  },
+  {
+   "id": "benny-thomas-lewss-ac-new-79",
+   "title": "lewss ac new",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:30",
+   "src": "Benny Thomas ideas/Unknown Album/lewss ac new.mp3"
+  },
+  {
+   "id": "benny-thomas-little-dirty-130bpm-80",
+   "title": "little dirty 130bpm",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:51",
+   "src": "Benny Thomas band/Unknown Album/01 little dirty 130bpm_4.mp3"
+  },
+  {
+   "id": "benny-thomas-lkblexvox-81",
+   "title": "lkblexvox",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:01",
+   "src": "Benny Thomas/Unknown Album/lkblexvox123_01.mp3"
+  },
+  {
+   "id": "benny-thomas-local-heat-1st-prerecord-82",
+   "title": "local heat 1st prerecord",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "26:36",
+   "src": "Benny Thomas/Unknown Album/local heat 1st prerecord.mp3"
+  },
+  {
+   "id": "benny-thomas-local-heat-prerecord-pt-83",
+   "title": "local heat prerecord pt",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "24:16",
+   "src": "Benny Thomas/Unknown Album/local heat prerecord pt 2.mp3"
+  },
+  {
+   "id": "benny-thomas-lost-a-good-one-new-vox-high-84",
+   "title": "lost a good one new vox HIGH",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:41",
+   "src": "Benny Thomas band/Unknown Album/01 lost a good one new vox  HIGH.mp3"
+  },
+  {
+   "id": "benny-thomas-lovin-you-is-fun-click-in-g-85",
+   "title": "LOVIN YOU IS FUN CLICK IN G",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "Benny Thomas Back up tracks/Unknown Album/LOVIN YOU IS FUN CLICK IN G 2.mp3"
+  },
+  {
+   "id": "benny-thomas-make-it-your-86",
+   "title": "make it your",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:40",
+   "src": "Benny Thomas band/Unknown Album/make it your.mp3"
+  },
+  {
+   "id": "benny-thomas-makin-bad-decisions-01-87",
+   "title": "Makin' Bad Decisions 01",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:15",
+   "src": "Benny Thomas band/Unknown Album/01 Makin' Bad Decisions 01-24-202.mp3"
+  },
+  {
+   "id": "benny-thomas-maybe-it-s-love-mix-02-88",
+   "title": "Maybe It's Love Mix 02",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:41",
+   "src": "Benny Thomas/Benny Thomas/01 Maybe It's Love Mix 02-13-2019.mp3"
+  },
+  {
+   "id": "benny-thomas-maybe-its-love-filtered-89",
+   "title": "maybe its love_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:21",
+   "src": "Benny Thomas/Unknown Album/maybe its love_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-maybe-love-2018-filtered-90",
+   "title": "maybe love 2018_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:25",
+   "src": "Benny Thomas/Unknown Album/maybe love 2018_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-me-an-jack-91",
+   "title": "me an Jack",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:41",
+   "src": "Benny Thomas/Unknown Album/me an Jack.mp3"
+  },
+  {
+   "id": "benny-thomas-moved-to-tehachapi-92",
+   "title": "moved to tehachapi",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:52",
+   "src": "Benny thomas blues commotion/Unknown Album/moved to tehachapi.m4a"
+  },
+  {
+   "id": "benny-thomas-nice-cars-in-bad-neighborhoods-93",
+   "title": "nice cars in bad neighborhoods",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "Benny Thomas/Unknown Album/nice cars in bad neighborhoods.mp3"
+  },
+  {
+   "id": "benny-thomas-nice-low-a-minor-94",
+   "title": "Nice Low A Minor",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:02",
+   "src": "Benny Thomas/Unknown Album/Nice Low A Minor.mp3"
+  },
+  {
+   "id": "benny-thomas-not-you-95",
+   "title": "Not You",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:01",
+   "src": "Benny Thomas/Unknown Album/Not You.mp3"
+  },
+  {
+   "id": "benny-thomas-not-your-boyfriend-anymore-96",
+   "title": "Not Your Boyfriend Anymore",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:52",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Not Your Boyfriend Anymore 08-.mp3"
+  },
+  {
+   "id": "benny-thomas-not-your-boyfriend-anymore-scratch-vox-97",
+   "title": "Not Your Boyfriend Anymore scratch vox",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:53",
+   "src": "Benny Thomas band/Unknown Album/01 Not Your Boyfriend Anymore  scratch vox.mp3"
+  },
+  {
+   "id": "benny-thomas-nothin-on-but-the-radio-98",
+   "title": "NOTHIN ON but the radio",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:36",
+   "src": "Benny Thomas Back up tracks/Unknown Album/NOTHIN ON but the radio   -.mp3"
+  },
+  {
+   "id": "benny-thomas-nothin-on-but-the-radio-click-fixd-99",
+   "title": "NOTHIN ON but the radio CLICK FIXD",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:36",
+   "src": "Benny Thomas Back up tracks/Unknown Album/NOTHIN ON but the radio CLICK FIXD.mp3"
+  },
+  {
+   "id": "benny-thomas-one-more-drink-ben-vox-d-f-c-g-100",
+   "title": "one more drink Ben Vox D F C G",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:39",
+   "src": "Beny Thomas Band/Benny Thomas Demos/01 one more drink Ben Vox D F C G.mp3"
+  },
+  {
+   "id": "benny-thomas-one-song-away-mix-101",
+   "title": "one Song Away - Mix",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:43",
+   "src": "Benny Thomas/Benny Thomas/01 one Song Away - Mix.mp3"
+  },
+  {
+   "id": "benny-thomas-only-want-one-record-version-102",
+   "title": "only want one record version",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:07",
+   "src": "Benny Thomas band/Unknown Album/only want one record version.mp3"
+  },
+  {
+   "id": "benny-thomas-over-and-over-103",
+   "title": "Over & Over",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:40",
+   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/03 Over & Over.mp3"
+  },
+  {
+   "id": "benny-thomas-over-again-3-filtered-104",
+   "title": "over again 3_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:28",
+   "src": "Benny Thomas band/Unknown Album/over again 3_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-over-and-over-mix-final-105",
+   "title": "Over and Over - Mix Final",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:40",
+   "src": "Benny Thomas band/Country AF EP/Over and Over - Mix Final.mp3"
+  },
+  {
+   "id": "benny-thomas-over-and-over-mix-v-106",
+   "title": "Over and Over - Mix V",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:42",
+   "src": "Benny Thomas/Benny Thomas/01 Over and Over - Mix V1.mp3"
+  },
+  {
+   "id": "benny-thomas-problem-solver-107",
+   "title": "Problem solver",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:40",
+   "src": "Benny Thomas/Unknown Album/Problem solver 1.mp3"
+  },
+  {
+   "id": "benny-thomas-really-pretty-girls-08-108",
+   "title": "Really Pretty Girls 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:15",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Really Pretty Girls 08-04-2021.mp3"
+  },
+  {
+   "id": "benny-thomas-red-necks-do-mix-final-109",
+   "title": "Red Necks Do - Mix Final",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:48",
+   "src": "Benny Thomas band/Unknown Album/Red Necks Do - Mix Final.mp3"
+  },
+  {
+   "id": "benny-thomas-sad-song-good-12-high-110",
+   "title": "sad song good_12 high",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:07",
+   "src": "Benny Thomas band/Unknown Album/01 sad song good_12 high_1.mp3"
+  },
+  {
+   "id": "benny-thomas-sawdust-on-the-floor-08-111",
+   "title": "Sawdust On The Floor 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:14",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Sawdust On The Floor 08-04-202.mp3"
+  },
+  {
+   "id": "benny-thomas-set-2-only-want-one-08-112",
+   "title": "Set 2 Only Want One 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:11",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Set 2   Only Want One 08-04-2021.mp3"
+  },
+  {
+   "id": "benny-thomas-small-pond-113",
+   "title": "SMALL POND",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:44",
+   "src": "Benny Thomas/Unknown Album/05 SMALL POND.mp3"
+  },
+  {
+   "id": "benny-thomas-snapback-edited-click-114",
+   "title": "snapback edited click",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:30",
+   "src": "benny thomas click tracks/Unknown Album/snapback edited click.mp3"
+  },
+  {
+   "id": "benny-thomas-somebody-else-backiong-115",
+   "title": "somebody else backiong",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:52",
+   "src": "benny thomas click tracks/Unknown Album/somebody else backiong.mp3"
+  },
+  {
+   "id": "benny-thomas-somebody-like-you-custom-backing-track-116",
+   "title": "Somebody Like You Custom Backing Track",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:46",
+   "src": "Benny Thomas Back up tracks/Karaoke Version/4821 Somebody Like You Custom Backing Track.mp3"
+  },
+  {
+   "id": "benny-thomas-sounds-like-a-country-song-117",
+   "title": "sounds like a country song",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:55",
+   "src": "Benny Thomas band/Unknown Album/sounds like a country song.mp3"
+  },
+  {
+   "id": "benny-thomas-still-gonna-be-my-fault-drum-118",
+   "title": "Still Gonna Be My Fault - Drum",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "Benny Thomas band/Unknown Album/01 Still Gonna Be My Fault - Drum.mp3"
+  },
+  {
+   "id": "benny-thomas-still-gonna-be-my-fault-08-119",
+   "title": "Still Gonna Be My Fault 08",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:25",
+   "src": "Benny Thomas band/I was drunk and im sorry/01 Still Gonna Be My Fault 08-04-.mp3"
+  },
+  {
+   "id": "benny-thomas-stop-this-song-120",
+   "title": "stop this song",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:51",
+   "src": "Benny Thomas/Unknown Album/stop this song.mp3"
+  },
+  {
+   "id": "benny-thomas-stop-this-song-and-kick-your-ass-121",
+   "title": "stop this song and kick your ass",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:08",
+   "src": "Benny Thomas/Unknown Album/stop this song and kick your ass.mp3"
+  },
+  {
+   "id": "benny-thomas-straight-shot-122",
+   "title": "STRAIGHT SHOT",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:04",
+   "src": "Benny Thomas/Unknown Album/STRAIGHT SHOT.mp3"
+  },
+  {
+   "id": "benny-thomas-straight-shot-mam-123",
+   "title": "Straight Shot Mam",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:03",
+   "src": "Benny Thomas/Unknown Album/Straight Shot Mam.mp3"
+  },
+  {
+   "id": "benny-thomas-strait-shot-mama-1-124",
+   "title": "strait shot Mama 1",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:55",
+   "src": "Benny Thomas/Unknown Album/strait shot Mama 1 2.mp3"
+  },
+  {
+   "id": "benny-thomas-teach-me-to-dance-1-verse-125",
+   "title": "teach me to dance 1 verse",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:04",
+   "src": "Benny Thomas band/Unknown Album/01 teach me to dance  1 verse_1.mp3"
+  },
+  {
+   "id": "benny-thomas-teach-me-to-dance-slosw-speed-126",
+   "title": "teach me to dance slosw speed",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:44",
+   "src": "Benny Thomas band/Unknown Album/01 teach me to dance slosw speed_.mp3"
+  },
+  {
+   "id": "benny-thomas-that-wasn-t-me-talking-that-was-just-the-boose-127",
+   "title": "that wasn't me talking, that was just the boose",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:05",
+   "src": "Benny Thomas/Unknown Album/that wasn't me talking,  that was just the boose.m4a"
+  },
+  {
+   "id": "benny-thomas-thats-how-i-feel-2-filtered-128",
+   "title": "thats how i feel 2_filtered",
+   "cat": "benny-thomas",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:01",
+   "src": "Benny Thomas/Unknown Album/thats how i feel 2_filtered.mp3"
+  },
+  {
+   "id": "benny-thomas-the-lord-giveth-129",
+   "title": "the lord giveth",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:11",
+   "src": "Benny Thomas/Unknown Album/the lord giveth.mp3"
+  },
+  {
+   "id": "benny-thomas-there-she-goes-again-130",
+   "title": "There she goes again",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:28",
+   "src": "Benny Thomas/Unknown Album/There she goes again 2.mp3"
+  },
+  {
+   "id": "benny-thomas-this-gone-be-good-131",
+   "title": "This Gone Be good",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:06",
+   "src": "Benny Thomas band/Unknown Album/This Gone Be good.mp3"
+  },
+  {
+   "id": "benny-thomas-trip-top-beat-132",
+   "title": "trip top beat",
+   "cat": "benny-thomas",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:08",
+   "src": "Benny Thomas/Unknown Album/trip top beat.mp3"
+  },
+  {
+   "id": "benny-thomas-troubador-click-b-g-e-b-133",
+   "title": "TROUBADOR CLICK B G# E B",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:55",
+   "src": "Benny Thomas Back up tracks/Unknown Album/TROUBADOR CLICK B G# E B.mp3"
+  },
+  {
+   "id": "benny-thomas-wagon-click-track-134",
+   "title": "WAGON CLICK TRACK",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:10",
+   "src": "Benny Thomas Back up tracks/Unknown Album/WAGON CLICK TRACK.mp3"
+  },
+  {
+   "id": "benny-thomas-wagon-click-track-g-135",
+   "title": "WAGON CLICK TRACK G",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:10",
+   "src": "Benny Thomas Back up tracks/Unknown Album/WAGON CLICK TRACK G.mp3"
+  },
+  {
+   "id": "benny-thomas-way-we-were-echo-snr-fixed-136",
+   "title": "way we were echo snr fixed",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:03",
+   "src": "Benny Thomas/Unknown Album/way we were echo snr fixed 1.mp3"
+  },
+  {
+   "id": "benny-thomas-write-a-song-137",
+   "title": "write a song",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:00",
+   "src": "Benny Thomas band/Unknown Album/01 write a song_3.mp3"
+  },
+  {
+   "id": "benny-thomas-you-can-call-it-sunshine-138",
+   "title": "you can call it sunshine",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:52",
+   "src": "Benny Thomas/Unknown Album/you can call it sunshine.m4a"
+  },
+  {
+   "id": "benny-thomas-you-can-do-better-winter-139",
+   "title": "you can do better winter",
+   "cat": "benny-thomas",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:01",
+   "src": "Benny Thomas band/Unknown Album/01 you can do better winter 22.mp3"
+  },
+  {
+   "id": "cornfield-16-now-forget-it-140",
+   "title": "16 now forget it",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:32",
+   "src": "Cornfield/Full Size Files/12 16 now forget it.mp3"
+  },
+  {
+   "id": "cornfield-alien-beat-141",
+   "title": "alien Beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:17",
+   "src": "Cornfield/Beats for dray/07 alien Beat.mp3"
+  },
+  {
+   "id": "cornfield-alien-mic-instr-142",
+   "title": "alien Mic instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:31",
+   "src": "Cornfield/Beats for dray/02 alien Mic instr.mp3"
+  },
+  {
+   "id": "cornfield-alone-song-143",
+   "title": "alone song",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:27",
+   "src": "Cornfield/Unknown Album/alone song.mp3"
+  },
+  {
+   "id": "cornfield-another-dimention-new-144",
+   "title": "another dimention new",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:35",
+   "src": "Cornfield beat/Unknown Album/another dimention new.mp3"
+  },
+  {
+   "id": "cornfield-bbfunker-instr-145",
+   "title": "bbfunker Instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "0:26",
+   "src": "Cornfield/Better Beats Bureau/bbfunker Instr.mp3"
+  },
+  {
+   "id": "cornfield-bluesy-instr-146",
+   "title": "bluesy Instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:41",
+   "src": "benny Thomas cornfield/Songs About my ex wife/bluesy Instr.mp3"
+  },
+  {
+   "id": "cornfield-bottled-up-147",
+   "title": "Bottled Up",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:53",
+   "src": "Cornfield/Full Size Files/21 Bottled Up.mp3"
+  },
+  {
+   "id": "cornfield-bottles-sample-filtered-148",
+   "title": "bottles sample_filtered",
+   "cat": "cornfield",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:50",
+   "src": "Cornfield/Unknown Album/4 bottles sample_filtered.mp3"
+  },
+  {
+   "id": "cornfield-bring-poison-149",
+   "title": "bring poison",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "Cornfield Other Bands/Unknown Album/bring poison.mp3"
+  },
+  {
+   "id": "cornfield-brothers-and-sisters-beat-instr-150",
+   "title": "Brothers and sisters beat INstr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:19",
+   "src": "Cornfield/Unknown Album/03 Brothers and sisters beat INstr.mp3"
+  },
+  {
+   "id": "cornfield-bumps-beat-instr-151",
+   "title": "bumps beat Instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:02",
+   "src": "Cornfield beats/Beats for dray/06 bumps beat Instr.mp3"
+  },
+  {
+   "id": "cornfield-cant-152",
+   "title": "cant",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:15",
+   "src": "Cornfield Bluse/Unknown Album/cant.mp3"
+  },
+  {
+   "id": "cornfield-cant-believe-its-monday-153",
+   "title": "Cant Believe Its Monday",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:35",
+   "src": "Cornfield Bluse/Days Behind/11 Cant Believe Its Monday.mp3"
+  },
+  {
+   "id": "cornfield-cant-fight-no-more-154",
+   "title": "cant fight no more",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:06",
+   "src": "Cornfield/Unknown Album/09 cant fight no more.mp3"
+  },
+  {
+   "id": "cornfield-chain-155",
+   "title": "Chain",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:13",
+   "src": "Cornfield/Unknown Album/Chain1500.mp3"
+  },
+  {
+   "id": "cornfield-close-instr-156",
+   "title": "CLOSE instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:23",
+   "src": "Cornfield/Unknown Album/CLOSE instr.mp3"
+  },
+  {
+   "id": "cornfield-close-your-eyes-157",
+   "title": "close your eyes",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:54",
+   "src": "Cornfield Lassen/Unknown Album/close your eyes.mp3"
+  },
+  {
+   "id": "cornfield-cloud-your-decision-158",
+   "title": "Cloud Your Decision",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:20",
+   "src": "Cornfield Bluse/Days Behind/01 Cloud Your Decision.mp3"
+  },
+  {
+   "id": "cornfield-cold-october-159",
+   "title": "Cold October",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:17",
+   "src": "Cornfield Bluse/Days Behind/06 Cold October.mp3"
+  },
+  {
+   "id": "cornfield-cornfield-oh-girl-160",
+   "title": "cornfield - Oh Girl",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "Cornfield Lassen/Unknown Album/cornfield - Oh Girl.mp3"
+  },
+  {
+   "id": "cornfield-cornfield-shes-into-witchcraft-161",
+   "title": "Cornfield -Shes into witchcraft",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:06",
+   "src": "Cornfield Lassen/Unknown Album/Cornfield -Shes into witchcraft.mp3"
+  },
+  {
+   "id": "cornfield-cornfield-oxygen-drop-bass-162",
+   "title": "Cornfield-oxygen drop bass",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:18",
+   "src": "Cornfield Bluse/Days Behind/Cornfield-oxygen drop bass.mp3"
+  },
+  {
+   "id": "cornfield-cornfield-oxygen-if-y-19db0-mp-163",
+   "title": "Cornfield-oxygen-If y#19DB0.mp",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "Cornfield Bluse/Unknown Album/Cornfield-oxygen-If y#19DB0.mp3.mp3"
+  },
+  {
+   "id": "cornfield-cornfielddemo-164",
+   "title": "cornfielddemo",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:45",
+   "src": "Cornfield/Unknown Album/cornfielddemo.mp3"
+  },
+  {
+   "id": "cornfield-days-behind-clean-165",
+   "title": "days behind clean",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:43",
+   "src": "Cornfield/Unknown Album/days behind clean 1.mp3"
+  },
+  {
+   "id": "cornfield-dirtinmyhandscratct-166",
+   "title": "dirtinmyhandscratct",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:52",
+   "src": "Cornfield Other Bands/Unknown Album/dirtinmyhandscratct 1.mp3"
+  },
+  {
+   "id": "cornfield-don-t-get-low-167",
+   "title": "Don't Get Low",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:42",
+   "src": "Cornfield Bluse/Days Behind/02 Don't Get Low.mp3"
+  },
+  {
+   "id": "cornfield-dont-be-so-cold-168",
+   "title": "Dont Be So Cold",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:03",
+   "src": "Cornfield Bluse/Days Behind/08 Dont Be So Cold.mp3"
+  },
+  {
+   "id": "cornfield-dont-get-low-169",
+   "title": "dont get low",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:43",
+   "src": "Cornfield/3 song/dont get low 6.mp3"
+  },
+  {
+   "id": "cornfield-drivine-170",
+   "title": "Drivine",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:02",
+   "src": "Cornfield Bluse/Days Behind/09 Drivine.mp3"
+  },
+  {
+   "id": "cornfield-fuck-the-morning-filtered-171",
+   "title": "Fuck The Morning_filtered",
+   "cat": "cornfield",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:43",
+   "src": "Cornfield/Unknown Album/Fuck The Morning_filtered..mp3"
+  },
+  {
+   "id": "cornfield-fuzzy-beat-instr-172",
+   "title": "fuzzy beat Instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:30",
+   "src": "Cornfield/Full Size Files/06 fuzzy beat Instr.mp3"
+  },
+  {
+   "id": "cornfield-hero-in-the-bar-final-173",
+   "title": "Hero in the bar final",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "Cornfield/Unknown Album/Hero in the bar final.mp3"
+  },
+  {
+   "id": "cornfield-i-need-a-sign-174",
+   "title": "i need a sign",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:20",
+   "src": "Cornfield Lassen/Unknown Album/12 i need a sign.mp3"
+  },
+  {
+   "id": "cornfield-i-never-meant-to-175",
+   "title": "i never meant to",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:45",
+   "src": "Cornfield Bluse/Unknown Album/i never meant to.mp3"
+  },
+  {
+   "id": "cornfield-let-it-slide-176",
+   "title": "Let IT Slide",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:47",
+   "src": "Cornfield/Full Size Files/17 Let IT Slide.mp3"
+  },
+  {
+   "id": "cornfield-like-a-gun-177",
+   "title": "Like a gun",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:20",
+   "src": "Cornfield Lassen/Unknown Album/16 Like a gun.mp3"
+  },
+  {
+   "id": "cornfield-lonely-man-178",
+   "title": "lonely man",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:27",
+   "src": "Cornfield/Unknown Album/09 lonely man.mp3"
+  },
+  {
+   "id": "cornfield-lost-and-jaded-179",
+   "title": "Lost and Jaded",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:18",
+   "src": "Cornfield/Unknown Album/08 Lost and Jaded.mp3"
+  },
+  {
+   "id": "cornfield-moisturizer-180",
+   "title": "Moisturizer",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:15",
+   "src": "Cornfield Other Bands/Full Size Files/15 Moisturizer.mp3"
+  },
+  {
+   "id": "cornfield-my-newest-song-instr-181",
+   "title": "my newest song Instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental",
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:52",
+   "src": "Cornfield beats/Unknown Album/my newest song Instr.mp3"
+  },
+  {
+   "id": "cornfield-mystery-182",
+   "title": "mystery",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:33",
+   "src": "Cornfield/Beats for dray/01 mystery.mp3"
+  },
+  {
+   "id": "cornfield-never-meant-to-183",
+   "title": "Never Meant To",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:42",
+   "src": "Cornfield Bluse/Days Behind/05 Never Meant To.mp3"
+  },
+  {
+   "id": "cornfield-new-cali-184",
+   "title": "New Cali",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:09",
+   "src": "Cornfield/Full Size Files/05 New Cali.mp3"
+  },
+  {
+   "id": "cornfield-new-cali-beat-185",
+   "title": "new cali beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:09",
+   "src": "Cornfield/Beats for dray/04 new cali beat.mp3"
+  },
+  {
+   "id": "cornfield-nice-acoustic-jam-186",
+   "title": "nice acoustic jam",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "Cornfield/Unknown Album/10 nice acoustic jam.mp3"
+  },
+  {
+   "id": "cornfield-no-no-no-187",
+   "title": "No No No",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:37",
+   "src": "Cornfield/Unknown Album/11 No No No.mp3"
+  },
+  {
+   "id": "cornfield-omaha-acoustic-188",
+   "title": "omaha (acoustic)",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:44",
+   "src": "Cornfield/Unknown Album/omaha (acoustic).mp3"
+  },
+  {
+   "id": "cornfield-outro-benz-verse-189",
+   "title": "Outro benz verse",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:40",
+   "src": "Cornfield Other Bands/Unknown Album/Outro benz verse.mp3"
+  },
+  {
+   "id": "cornfield-oxygen-190",
+   "title": "Oxygen",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "Cornfield Bluse/Days Behind/07 Oxygen.mp3"
+  },
+  {
+   "id": "cornfield-painted-flowers1-191",
+   "title": "painted flowers1",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:02",
+   "src": "Cornfield Other Bands/Unknown Album/painted flowers1 1.mp3"
+  },
+  {
+   "id": "cornfield-peeps-upstairs-192",
+   "title": "Peeps upstairs",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:55",
+   "src": "Cornfield/Unknown Album/20 Peeps upstairs.mp3"
+  },
+  {
+   "id": "cornfield-perfect-world-193",
+   "title": "Perfect world",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:11",
+   "src": "Cornfield/Unknown Album/14 Perfect world.mp3"
+  },
+  {
+   "id": "cornfield-please-hate-me-mp-194",
+   "title": "please haTE ME.mp",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:10",
+   "src": "Cornfield/Unknown Album/please haTE ME.mp3.mp3"
+  },
+  {
+   "id": "cornfield-policy-195",
+   "title": "Policy",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:34",
+   "src": "Cornfield Bluse/Days Behind/12 Policy.mp3"
+  },
+  {
+   "id": "cornfield-pretty-eyes-196",
+   "title": "pretty eyes",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:06",
+   "src": "Cornfield/Unknown Album/12 pretty eyes.mp3"
+  },
+  {
+   "id": "cornfield-public-address-battle-rap-you-could-ve-been-a-blow-job-197",
+   "title": "Public address Battle Rap you could've been a Blow Job",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:49",
+   "src": "Cornfield/Unknown Album/Public address Battle Rap you could've  been a Blow Job.mp3"
+  },
+  {
+   "id": "cornfield-push-your-way-1-198",
+   "title": "push your way 1",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:51",
+   "src": "Cornfield/Unknown Album/push your way 1-25-10.mp3"
+  },
+  {
+   "id": "cornfield-pusher-199",
+   "title": "Pusher",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:48",
+   "src": "Cornfield/Full Size Files/03 Pusher.mp3"
+  },
+  {
+   "id": "cornfield-r-rex-2-filtered-200",
+   "title": "r rex 2_filtered",
+   "cat": "cornfield",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "0:21",
+   "src": "Cornfield/Unknown Album/r rex 2_filtered.mp3"
+  },
+  {
+   "id": "cornfield-rockit-201",
+   "title": "rockit",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:50",
+   "src": "Cornfield/Full Size Files/rockit 2.mp3"
+  },
+  {
+   "id": "cornfield-saturday-202",
+   "title": "Saturday",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:19",
+   "src": "Cornfield Bluse/Days Behind/10 Saturday.mp3"
+  },
+  {
+   "id": "cornfield-set-me-free-203",
+   "title": "set me free",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:13",
+   "src": "Cornfield/Unknown Album/12 set me free.mp3"
+  },
+  {
+   "id": "cornfield-she-can-play-the-fool-204",
+   "title": "She Can play the fool",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:58",
+   "src": "Cornfield/Full Size Files/05 She Can play the fool.mp3"
+  },
+  {
+   "id": "cornfield-small-pond-filtered-205",
+   "title": "Small Pond_filtered",
+   "cat": "cornfield",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:44",
+   "src": "Cornfield/Unknown Album/Small Pond_filtered..mp3"
+  },
+  {
+   "id": "cornfield-standing-in-the-rain-live-206",
+   "title": "standing in the rain live",
+   "cat": "cornfield",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:11",
+   "src": "Cornfield/Full Size Files/03 standing in the rain live.mp3"
+  },
+  {
+   "id": "cornfield-stay-ahead-of-the-beat-207",
+   "title": "STAY ahead of the beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:20",
+   "src": "Cornfield/Unknown Album/19 STAY ahead of the beat.mp3"
+  },
+  {
+   "id": "cornfield-strategimikize-208",
+   "title": "strategimikize",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:20",
+   "src": "Rockmixx cornfield/Unknown Album/strategimikize.mp3"
+  },
+  {
+   "id": "cornfield-sunnydaycornfield-209",
+   "title": "sunnydaycornfield",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:48",
+   "src": "Cornfield/Unknown Album/sunnydaycornfield.mp3"
+  },
+  {
+   "id": "cornfield-super-hero-beat-210",
+   "title": "Super hero Beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:29",
+   "src": "Cornfield beats/Beats for dray/09 Super hero Beat.mp3"
+  },
+  {
+   "id": "cornfield-the-hard-way-4-211",
+   "title": "the hard way 4",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:28",
+   "src": "Cornfield Bluse/Days Behind/the hard way 4-30-03.mp3"
+  },
+  {
+   "id": "cornfield-the-thought-212",
+   "title": "The Thought",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:15",
+   "src": "Cornfield Bluse/Days Behind/14 The Thought.mp3"
+  },
+  {
+   "id": "cornfield-thisistheway-213",
+   "title": "ThisIsTheWay",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:44",
+   "src": "cornfield rap/Unknown Album/ThisIsTheWay.mp3"
+  },
+  {
+   "id": "cornfield-tight-rope-214",
+   "title": "Tight Rope",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "Cornfield Bluse/Days Behind/13 Tight Rope.mp3"
+  },
+  {
+   "id": "cornfield-to-make-you-cry-215",
+   "title": "to make you cry",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:44",
+   "src": "Cornfield/Unknown Album/08 to make you cry.mp3"
+  },
+  {
+   "id": "cornfield-too-drunk-216",
+   "title": "too drunk",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:49",
+   "src": "Cornfield/Unknown Album/too drunk.mp3"
+  },
+  {
+   "id": "cornfield-track-217",
+   "title": "Track",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "0:20",
+   "src": "Cornfield beats/Unknown Album/49 Track 49.mp3"
+  },
+  {
+   "id": "cornfield-undisc-218",
+   "title": "undisc",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:57",
+   "src": "Cornfield/cornfields music/undisc.mp3"
+  },
+  {
+   "id": "cornfield-way-we-were-echo-snr-fixed-219",
+   "title": "way we were echo snr fixed",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:03",
+   "src": "Cornfield/Unknown Album/way we were echo snr fixed.mp3"
+  },
+  {
+   "id": "cornfield-weekend-s-on-beat-220",
+   "title": "weekend's on beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:00",
+   "src": "Cornfield beats/Beats for dray/05 weekend's on beat.mp3"
+  },
+  {
+   "id": "cornfield-were-the-ones-instr-221",
+   "title": "were the ones instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "5:50",
+   "src": "Cornfield/Full Size Files/05 were the ones instr.mp3"
+  },
+  {
+   "id": "cornfield-were-the-ones-w-vox-222",
+   "title": "were the ones w_vox",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "6:00",
+   "src": "Cornfield/Full Size Files/07 were the ones w_vox.mp3"
+  },
+  {
+   "id": "cornfield-what-we-ve-done-223",
+   "title": "what we've done",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:18",
+   "src": "Cornfield/Full Size Files/11 what we've done.mp3"
+  },
+  {
+   "id": "cornfield-what-your-after-beat-224",
+   "title": "what your after beat",
+   "cat": "cornfield",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:49",
+   "src": "Cornfield beats/Beats for dray/08 what your after beat.mp3"
+  },
+  {
+   "id": "cornfield-witch-craft-no-drums-225",
+   "title": "witch craft no drums",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:13",
+   "src": "Cornfield/Full Size Files/15 witch craft no drums.mp3"
+  },
+  {
+   "id": "cornfield-witchcraft-master-226",
+   "title": "witchcraft master",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:10",
+   "src": "Cornfield/Full Size Files/11 witchcraft master.mp3"
+  },
+  {
+   "id": "cornfield-you-cal-this-instr-227",
+   "title": "you cal this instr",
+   "cat": "cornfield",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:03",
+   "src": "Cornfield/Unknown Album/you cal this instr.mp3"
+  },
+  {
+   "id": "cornfield-your-pretty-eyes-228",
+   "title": "Your Pretty eyes",
+   "cat": "cornfield",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:08",
+   "src": "Cornfield/Full Size Files/09 Your Pretty eyes.mp3"
+  },
+  {
+   "id": "dirt-farmers-another-dimension-live-229",
+   "title": "Another Dimension live",
+   "cat": "dirt-farmers",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:53",
+   "src": "Dirt Farmers/Full Size Files/02 Another Dimension live.mp3"
+  },
+  {
+   "id": "dirt-farmers-another-dimention-4-230",
+   "title": "another dimention 4",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:35",
+   "src": "Dirt Farmers/Unknown Album/another dimention 4-30-03.mp3"
+  },
+  {
+   "id": "dirt-farmers-changes-new-231",
+   "title": "changes new",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:09",
+   "src": "Dirt Farmers/Unknown Album/changes new.mp3"
+  },
+  {
+   "id": "dirt-farmers-classified-232",
+   "title": "classified",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:39",
+   "src": "Dirt Farmers/Experimental 2005/classified.mp3"
+  },
+  {
+   "id": "dirt-farmers-drunk-on-the-mic-with-brad-233",
+   "title": "drunk on the mic with brad",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:46",
+   "src": "Dirt Farmers/Unknown Album/drunk on the mic with brad.mp3"
+  },
+  {
+   "id": "dirt-farmers-go-mp-234",
+   "title": "go mp",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "Dirt Farmers/Unknown Album/go mp3.mp3"
+  },
+  {
+   "id": "dirt-farmers-hero-enrique-cover-instr-235",
+   "title": "hero enrique cover Instr",
+   "cat": "dirt-farmers",
+   "tags": [
+    "instrumental",
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:56",
+   "src": "Dirt Farmers/Unknown Album/hero enrique cover Instr.mp3"
+  },
+  {
+   "id": "dirt-farmers-hero-instr-236",
+   "title": "hero instr",
+   "cat": "dirt-farmers",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:05",
+   "src": "Dirt Farmers/Unknown Album/hero instr.mp3"
+  },
+  {
+   "id": "dirt-farmers-midlife-done-237",
+   "title": "midlife done",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:05",
+   "src": "Dirt Farmers/Unknown Album/midlife done.mp3"
+  },
+  {
+   "id": "dirt-farmers-more-than-10-ways-238",
+   "title": "more than 10 ways",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:05",
+   "src": "Dirt Farmers/Unknown Album/13 more than 10 ways.mp3"
+  },
+  {
+   "id": "dirt-farmers-mr-hollywood-239",
+   "title": "Mr. Hollywood",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:38",
+   "src": "Dirt Farmers/Experimental Hip Hop EP/03 Mr. Hollywood.mp3"
+  },
+  {
+   "id": "dirt-farmers-mr-hollywood-remix-by-crs-240",
+   "title": "Mr. Hollywood Remix By Crs",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:22",
+   "src": "Dirt Farmers/Experimental Hip Hop EP/10 Mr. Hollywood Remix By Crs_.mp3"
+  },
+  {
+   "id": "dirt-farmers-never-stop-241",
+   "title": "Never Stop",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "Dirt Farmers/Experimental Hip Hop EP/07 Never Stop.mp3"
+  },
+  {
+   "id": "dirt-farmers-pioneer-pusher-242",
+   "title": "pioneer pusher",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:33",
+   "src": "Dirt Farmers/Unknown Album/15 pioneer pusher.mp3"
+  },
+  {
+   "id": "dirt-farmers-rockit-243",
+   "title": "rockit",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:50",
+   "src": "Dirt Farmers/Full Size Files/rockit 2.aiff"
+  },
+  {
+   "id": "dirt-farmers-rocky-whore-brad-and-bogie-244",
+   "title": "rocky Whore Brad and bogie",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:24",
+   "src": "Dirt Farmers/Unknown Album/rocky Whore Brad and bogie.mp3"
+  },
+  {
+   "id": "dirt-farmers-rokit-245",
+   "title": "ROKIT",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:26",
+   "src": "Dirt Farmers/Unknown Album/10 ROKIT.mp3"
+  },
+  {
+   "id": "dirt-farmers-separate-the-image-246",
+   "title": "Separate the Image",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:48",
+   "src": "Dirt Farmers/Experimental Hip Hop - EP/09 Separate the Image.m4a"
+  },
+  {
+   "id": "dirt-farmers-taking-out-the-trash-247",
+   "title": "taking out the trash",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:45",
+   "src": "Dirt Farmers/Unknown Album/10 taking out the trash.mp3"
+  },
+  {
+   "id": "dirt-farmers-theme-248",
+   "title": "Theme",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:42",
+   "src": "Dirt Farmers/Experimental Hip Hop EP/04 Theme.mp3"
+  },
+  {
+   "id": "dirt-farmers-upright-animals-w-brad-249",
+   "title": "upright animals_w brad",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:18",
+   "src": "The Dirt Farmers/Unknown Album/upright animals_w brad.mp3"
+  },
+  {
+   "id": "dirt-farmers-we-got-a-problem-250",
+   "title": "We Got A Problem",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:31",
+   "src": "Dirt Farmers/Experimental Hip Hop EP/06 We Got A Problem.mp3"
+  },
+  {
+   "id": "dirt-farmers-weekends-turns-251",
+   "title": "weekends turns",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:00",
+   "src": "The Dirt Farmers/Unknown Album/weekends turns.mp3"
+  },
+  {
+   "id": "dirt-farmers-what-your-after-252",
+   "title": "What Your After",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:05",
+   "src": "Dirt Farmers/Experimental Hip Hop - EP/05 What Your After.m4a"
+  },
+  {
+   "id": "dirt-farmers-what-your-after-newste-253",
+   "title": "what your after newste",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:19",
+   "src": "Dirt Farmers/cornfields music/what your after newste.mp3"
+  },
+  {
+   "id": "dirt-farmers-whats-on-tap-10-254",
+   "title": "whats on tap 10",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:40",
+   "src": "Dirt Farmers/Unknown Album/whats on tap 10-31-04.mp3"
+  },
+  {
+   "id": "dirt-farmers-whats-on-tap-stems-255",
+   "title": "whats on tap stems",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:28",
+   "src": "Dirt Farmers/Unknown Album/01 whats on tap stems.mp3"
+  },
+  {
+   "id": "dirt-farmers-you-can-call-me-daddy-256",
+   "title": "you can call me daddy",
+   "cat": "dirt-farmers",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:56",
+   "src": "Dirt Farmers/Unknown Album/you can call me daddy.mp3"
+  },
+  {
+   "id": "disappearance-7-and-7-free-style-257",
+   "title": "7&7 free style",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "6:00",
+   "src": "disappearance/Unknown Album/7&7 free style.mp3"
+  },
+  {
+   "id": "disappearance-a-day-in-minor-liver-258",
+   "title": "a day in minor liver",
+   "cat": "disappearance",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:23",
+   "src": "disappearance/Unknown Album/a day in minor liver.aiff"
+  },
+  {
+   "id": "disappearance-a-day-in-minor-vox-259",
+   "title": "a day in minor vox",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:35",
+   "src": "disappearance/Unknown Album/a day in minor vox.mp3"
+  },
+  {
+   "id": "disappearance-anthem-clean-260",
+   "title": "Anthem clean",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:48",
+   "src": "disappearance/Unknown Album/Anthem clean.mp3"
+  },
+  {
+   "id": "disappearance-anthem-live-261",
+   "title": "Anthem Live",
+   "cat": "disappearance",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:27",
+   "src": "disappearance Live at Nicholbys/Live At Nicholbys/12 Anthem Live.mp3"
+  },
+  {
+   "id": "disappearance-baby-baby-needs-bass-262",
+   "title": "baby baby needs bass",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:29",
+   "src": "disappearance/Outside the box/baby baby needs bass.mp3"
+  },
+  {
+   "id": "disappearance-blacklisted-263",
+   "title": "Blacklisted",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:42",
+   "src": "disappearance/Full Size Files/01 Blacklisted.mp3"
+  },
+  {
+   "id": "disappearance-break-thru-264",
+   "title": "Break Thru",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:04",
+   "src": "disappearance/Spun for a loop CD/12 Break Thru.mp3"
+  },
+  {
+   "id": "disappearance-consistantly-drinkin-265",
+   "title": "Consistantly Drinkin'",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:38",
+   "src": "disappearance/Spun For A Loop/03 Consistantly Drinkin'.m4a"
+  },
+  {
+   "id": "disappearance-consistantly-new-266",
+   "title": "consistantly new",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:38",
+   "src": "disappearance/Unknown Album/21 consistantly new.mp3"
+  },
+  {
+   "id": "disappearance-consistantlydone-filtered-267",
+   "title": "consistantlydone_filtered",
+   "cat": "disappearance",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:38",
+   "src": "disappearance/Spun For A Loop/consistantlydone_filtered.mp3"
+  },
+  {
+   "id": "disappearance-constantly-live-268",
+   "title": "Constantly Live",
+   "cat": "disappearance",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:23",
+   "src": "disappearance Live at Nicholbys/Live At Nicholbys/10 Constantly Live.mp3"
+  },
+  {
+   "id": "disappearance-disappearance-the-prize-269",
+   "title": "disappearance the prize",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:53",
+   "src": "disappearance/Unknown Album/disappearance the prize.mp3"
+  },
+  {
+   "id": "disappearance-disappearjam-270",
+   "title": "disappearjam",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "8:04",
+   "src": "old disappearance/Unknown Album/disappearjam3.mp3"
+  },
+  {
+   "id": "disappearance-drinking-song-clean-271",
+   "title": "drinking song clean",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:39",
+   "src": "disappearance/Unknown Album/drinking song clean.mp3"
+  },
+  {
+   "id": "disappearance-drop-live-272",
+   "title": "Drop Live",
+   "cat": "disappearance",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "disappearance Live at Nicholbys/Live At Nicholbys/11 Drop Live.mp3"
+  },
+  {
+   "id": "disappearance-drop-practice-10-273",
+   "title": "drop practice 10",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "disappearance/Unknown Album/drop practice 10-27-05.mp3"
+  },
+  {
+   "id": "disappearance-fugit-274",
+   "title": "Fugit",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:44",
+   "src": "disappearance/Full Size Files/02 Fugit.mp3"
+  },
+  {
+   "id": "disappearance-get-up-275",
+   "title": "Get Up",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:01",
+   "src": "disappearance/Spun For A Loop/04 Get Up.mp3"
+  },
+  {
+   "id": "disappearance-high-school-all-over-276",
+   "title": "high school all over",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:04",
+   "src": "disappearance/Unknown Album/high school all over.mp3"
+  },
+  {
+   "id": "disappearance-hollywood-show-277",
+   "title": "Hollywood show",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:07",
+   "src": "disappearance/Unknown Album/Hollywood show.mp3"
+  },
+  {
+   "id": "disappearance-hose-donw-the-bar-take-278",
+   "title": "hose donw the bar take",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:43",
+   "src": "disappearance/Unknown Album/hose donw the bar take 4.mp3"
+  },
+  {
+   "id": "disappearance-hosedownthebar-279",
+   "title": "hosedownthebar",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "28:30",
+   "src": "disappearance/Unknown Album/hosedownthebar.mp3"
+  },
+  {
+   "id": "disappearance-miami-vice-280",
+   "title": "miami vice",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:18",
+   "src": "disappearance/Unknown Album/miami vice.mp3"
+  },
+  {
+   "id": "disappearance-prelude-to-sex-281",
+   "title": "prelude to sex",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:30",
+   "src": "disappearance/Spun For A Loop/06 prelude to sex.mp3"
+  },
+  {
+   "id": "disappearance-pusher-282",
+   "title": "pusher",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:48",
+   "src": "disappearance/Unknown Album/pusher.mp3"
+  },
+  {
+   "id": "disappearance-rain-in-cali-live-283",
+   "title": "Rain in cali Live",
+   "cat": "disappearance",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:06",
+   "src": "disappearance Live at Nicholbys/Live At Nicholbys/14 Rain in cali Live.mp3"
+  },
+  {
+   "id": "disappearance-rain-in-california-284",
+   "title": "Rain In California",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:43",
+   "src": "disappearance/Spun For A Loop/01 Rain In California.mp3"
+  },
+  {
+   "id": "disappearance-realisticly-vox-285",
+   "title": "realisticly vox",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:39",
+   "src": "disappearance/Unknown Album/01 realisticly vox1.mp3"
+  },
+  {
+   "id": "disappearance-retrospect-286",
+   "title": "Retrospect",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:58",
+   "src": "disappearance/Spun For A Loop/07 Retrospect.mp3"
+  },
+  {
+   "id": "disappearance-step-back-287",
+   "title": "Step Back",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:49",
+   "src": "disappearance/Spun For A Loop/10 Step Back.mp3"
+  },
+  {
+   "id": "disappearance-summer-288",
+   "title": "Summer",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "disappearance/Spun For A Loop/10 Summer.mp3"
+  },
+  {
+   "id": "disappearance-thats-right-289",
+   "title": "Thats Right",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:36",
+   "src": "disappearance/Spun For A Loop/02 Thats Right.mp3"
+  },
+  {
+   "id": "disappearance-the-anthem-290",
+   "title": "The anthem",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:45",
+   "src": "disappearance/Unknown Album/08 The anthem.mp3"
+  },
+  {
+   "id": "disappearance-the-drop-291",
+   "title": "The Drop",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:23",
+   "src": "disappearance/Unknown Album/09 The Drop.mp3"
+  },
+  {
+   "id": "disappearance-think-it-over-292",
+   "title": "Think IT Over",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "disappearance/Spun For A Loop/05 Think IT Over.mp3"
+  },
+  {
+   "id": "disappearance-what-people-want-293",
+   "title": "What People Want",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:42",
+   "src": "disappearance/Spun For A Loop/11 What People Want.mp3"
+  },
+  {
+   "id": "disappearance-you-call-mastered-294",
+   "title": "You call mastered",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:47",
+   "src": "disappearance/Unknown Album/You call mastered.mp3"
+  },
+  {
+   "id": "disappearance-you-call-this-love-295",
+   "title": "You call this love",
+   "cat": "disappearance",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:47",
+   "src": "disappearance/Full Size Files/04 You call this love.mp3"
+  },
+  {
+   "id": "disappearance-you-can-do-better-loewerd-vox-filtered-296",
+   "title": "YOU Can do better loewerd vox_filtered",
+   "cat": "disappearance",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:01",
+   "src": "disappearance/Unknown Album/YOU Can do better loewerd vox_filtered.mp3"
+  },
+  {
+   "id": "dj-rockmixx-djetclollipop-filtered-297",
+   "title": "djetclollipop_filtered",
+   "cat": "dj-rockmixx",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:09",
+   "src": "DJ rockmixx/Unknown Album/djetclollipop_filtered.mp3"
+  },
+  {
+   "id": "dj-rockmixx-like-a-cholo-new-filtered-298",
+   "title": "like a cholo new filtered",
+   "cat": "dj-rockmixx",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:09",
+   "src": "DJ rock mixx/Unknown Album/like a cholo new_filtered.mp3"
+  },
+  {
+   "id": "dj-rockmixx-strategamakize-stems-299",
+   "title": "strategamakize stems",
+   "cat": "dj-rockmixx",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:57",
+   "src": "DJ rockmixx/Unknown Album/01 strategamakize stems_1.mp3"
+  },
+  {
+   "id": "dj-rockmixx-this-is-why-i-m-hot-new-filtered-300",
+   "title": "this is why i'm hot new_filtered",
+   "cat": "dj-rockmixx",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:15",
+   "src": "DJ rockmixx/Unknown Album/this is why i'm hot  new_filtered.mp3"
+  },
+  {
+   "id": "dj-rockmixx-this-why-new-filtered-301",
+   "title": "this why new filtered",
+   "cat": "dj-rockmixx",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:15",
+   "src": "DJ rock mixx/Unknown Album/this why new_filtered.mp3"
+  },
+  {
+   "id": "dsanalog-06-ahead-of-the-beat-302",
+   "title": "06 ahead of the beat",
+   "cat": "dsanalog",
+   "tags": [
+    "beat"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:20",
+   "src": "DSAnalog/Full Size Files/06 ahead of the beat.mp3"
+  },
+  {
+   "id": "dsanalog-bumps-filtered-303",
+   "title": "Bumps filtered",
+   "cat": "dsanalog",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:02",
+   "src": "DSAnalog/Unknown Album/Bumps_filtered.mp3"
+  },
+  {
+   "id": "dsanalog-dsanalog-splinternew19da0-mp3-304",
+   "title": "DSAnalog -splinternew19DA0.mp3",
+   "cat": "dsanalog",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:43",
+   "src": "DSAnalog/Unknown Album/DSAnalog -splinternew19DA0.mp3.mp3"
+  },
+  {
+   "id": "dsanalog-peeps-upstairs-filtered-305",
+   "title": "Peeps Upstairs filtered",
+   "cat": "dsanalog",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:33",
+   "src": "DSAnalog/Unknown Album/Peeps Upstairs_filtered.mp3"
+  },
+  {
+   "id": "dsanalog-post-thoughts-306",
+   "title": "Post Thoughts",
+   "cat": "dsanalog",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:35",
+   "src": "DSAnalog/Unknown Album/Post Thoughts.mp3"
+  },
+  {
+   "id": "dsanalog-splinter-filtered-307",
+   "title": "Splinter filtered",
+   "cat": "dsanalog",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:43",
+   "src": "DSAnalog/Unknown Album/Splinter_filtered.mp3"
+  },
+  {
+   "id": "dsanalog-string-struck-goon-filtered-308",
+   "title": "String struck Goon filtered",
+   "cat": "dsanalog",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:49",
+   "src": "DSAnalog/Unknown Album/String struck Goon_filtered.mp3"
+  },
+  {
+   "id": "green-wise-records-green-wise-records-poncholeftycarefulinfluence-309",
+   "title": "Green Wise Records — poncholeftycarefulinfluence",
+   "cat": "green-wise-records",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:43",
+   "src": "~/Downloads/Audio Music/greenwiserecords_poncholeftycarefulinfluence.mp3"
+  },
+  {
+   "id": "green-wise-records-green-wise-records-ruleofrandomlettinggo-310",
+   "title": "Green Wise Records — ruleofrandomlettinggo",
+   "cat": "green-wise-records",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:26",
+   "src": "~/Downloads/Audio Music/greenwiserecords_ruleofrandomlettinggo.mp3"
+  },
+  {
+   "id": "ionic-ionic-crush-311",
+   "title": "Ionic - Crush",
+   "cat": "ionic",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "5:22",
+   "src": "IONIc/ionic/Ionic - Crush copy.mp3"
+  },
+  {
+   "id": "ionic-ionic-dudebro-312",
+   "title": "Ionic - dudebro",
+   "cat": "ionic",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:10",
+   "src": "IONIc/cornfields music/Ionic - dudebro copy.mp3"
+  },
+  {
+   "id": "ionic-ionic-price-you-pay-313",
+   "title": "Ionic - Price you pay",
+   "cat": "ionic",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:37",
+   "src": "IONIc/Unknown Album/Ionic - Price you pay copy.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-and-a-vent-314",
+   "title": "and a vent",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:48",
+   "src": "MC 2hourshower/Unknown Album/4 and a vent.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-bones-ft-dj-etc-315",
+   "title": "Bones Ft dj Etc",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:08",
+   "src": "MC 2hourshower/Unknown Album/Bones Ft dj Etc..mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-bottles-instr-316",
+   "title": "Bottles instr",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:58",
+   "src": "MC 2hourshower/Unknown Album/4 Bottles instr.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-bottles-vents-grandmothers-filtered-317",
+   "title": "bottles,vents,grandmothers_filtered",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:58",
+   "src": "MC 2hourshower/Unknown Album/bottles,vents,grandmothers_filtered.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-chain-gang-318",
+   "title": "chain Gang",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:13",
+   "src": "MC 2hourshower/Full Size Files/18 chain Gang.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-come-down-319",
+   "title": "COME DOWN",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:15",
+   "src": "MC 2hourshower/Unknown Album/09 COME DOWN.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-coming-of-age-clean-320",
+   "title": "coming of age clean",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:49",
+   "src": "MC 2hourshower/Unknown Album/coming of age clean.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-coming-to-agenew-filtered001-321",
+   "title": "coming to agenew_filtered001",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:21",
+   "src": "MC 2hourshower/Unknown Album/coming to agenew_filtered001 1.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-consistant-hiphop-instr-322",
+   "title": "consistant hiphop instr",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:51",
+   "src": "MC 2hourshower/Unknown Album/consistant hiphop instr.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-consistent-hip-hop-323",
+   "title": "consistent Hip Hop",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:45",
+   "src": "MC 2hourshower/Unknown Album/consistent Hip Hop.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-cornfield-jump-324",
+   "title": "cornfield Jump",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:08",
+   "src": "MC 2hourshower/Unknown Album/cornfield Jump.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-diseased-as-your-mother-325",
+   "title": "diseased as your mother",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:44",
+   "src": "MC 2hourshower/Unknown Album/diseased as your mother.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-djetc-rizz-same-old-club-filtered-326",
+   "title": "djetc-Rizz-Same Old Club_filtered",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:19",
+   "src": "MC 2hourshower/Unknown Album/djetc-Rizz-Same Old Club_filtered.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-etc-same-old-club-no-rizzy-327",
+   "title": "Etc - Same old club No Rizzy",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "MC 2hourshower/Unknown Album/Etc - Same old club No Rizzy.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-get-back-west-328",
+   "title": "GET BACK WEST",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "MC 2hourshower/Unknown Album/03 GET BACK WEST.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-hello-lady-329",
+   "title": "hello lady",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:09",
+   "src": "MC 2hourshower/Unknown Album/hello lady.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-hero-at-the-bar-330",
+   "title": "HERO AT THE BAR",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "MC 2hourshower/Unknown Album/02 HERO AT THE BAR.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-hero-in-the-bar-instr-331",
+   "title": "hero in the bar instr",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "MC 2hourshower/Unknown Album/hero in the bar instr.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-jump-jump-332",
+   "title": "JUMP JUMP",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:08",
+   "src": "MC 2hourshower/Unknown Album/08 JUMP JUMP.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-mc-2hour-shower-drinkin-song-333",
+   "title": "mc 2hour shower - drinkin song",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:46",
+   "src": "MC 2hourshower/Unknown Album/mc 2hour shower - drinkin song.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-selfless-love-334",
+   "title": "selfless love",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:49",
+   "src": "MC 2hourshower/Unknown Album/selfless love.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-shouldve-been-ablowjob-335",
+   "title": "SHOULDVE BEEN ABLOWJOB",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:49",
+   "src": "MC 2hourshower/Unknown Album/07 SHOULDVE BEEN ABLOWJOB.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-the-little-bit-instr-336",
+   "title": "The Little Bit instr",
+   "cat": "mc-2-hour-shower",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:25",
+   "src": "MC 2hourshower/Unknown Album/The Little Bit instr.mp3"
+  },
+  {
+   "id": "mc-2-hour-shower-upright-with-etc-w-spinz-and-brad-renfro-337",
+   "title": "upright with etc w_ Spinz and Brad Renfro",
+   "cat": "mc-2-hour-shower",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:59",
+   "src": "MC 2hourshower/Unknown Album/upright with etc w_ Spinz and Brad Renfro.mp3"
+  },
+  {
+   "id": "mrgreenwise-9s-recording-dec-8-7-28-pm-cover-338",
+   "title": "9s Recording (Dec 8 @ 7_28 PM) (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:00",
+   "src": "mrgreenwise/Unknown Album/15.9s Recording (Dec 8 @ 7_28 PM) (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-aint-mad-at-ya-339",
+   "title": "aint mad at ya",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:04",
+   "src": "mrgreenwise/Unknown Album/aint mad at ya 2024_4.mp3"
+  },
+  {
+   "id": "mrgreenwise-as-a-memory-new-vrs-cover-340",
+   "title": "as a memory new vrs (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:24",
+   "src": "mrgreenwise/Unknown Album/as a memory new vrs (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-as-country-asx-better-version-cover-341",
+   "title": "as country asx better version_ (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "mrgreenwise/Unknown Album/as country asx better version_ (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-beer-made-me-dave-final-cover-342",
+   "title": "Beer made me Dave final (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:06",
+   "src": "mrgreenwise/Unknown Album/Beer made me Dave final (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-big-ole-truck-9-needs-ben-vox-343",
+   "title": "big ole truck _9 needs ben vox",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:19",
+   "src": "mrgreenwise/Unknown Album/big ole truck _9 needs ben vox.mp3"
+  },
+  {
+   "id": "mrgreenwise-bj-wave-goodbye-cover-344",
+   "title": "BJ wave Goodbye (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "5:09",
+   "src": "mrgreenwise/Unknown Album/BJ wave Goodbye (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-boys-we-lost-a-good-one-needs-ben-vocal-345",
+   "title": "boys we lost a good one needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:08",
+   "src": "mrgreenwise/Unknown Album/boys we lost a good one  needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-break-up-song-cover-346",
+   "title": "BREAK UP SONG (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:19",
+   "src": "mrgreenwise/Unknown Album/01 BREAK UP SONG (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-bright-sunny-divorce-cover-347",
+   "title": "Bright Sunny Divorce (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:01",
+   "src": "mrgreenwise/Unknown Album/Bright Sunny Divorce (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-buckshot-348",
+   "title": "Buckshot",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:12",
+   "src": "mrgreenwise/Unknown Album/Buckshot.mp3"
+  },
+  {
+   "id": "mrgreenwise-catastrophy-349",
+   "title": "catastrophy",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:26",
+   "src": "mrgreenwise/Unknown Album/04 catastrophy.mp3"
+  },
+  {
+   "id": "mrgreenwise-chain-gang-350",
+   "title": "chain Gang",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:27",
+   "src": "mrgreenwise/Unknown Album/18 chain Gang.mp3"
+  },
+  {
+   "id": "mrgreenwise-cocaine-and-hookerz-vox-2-cover-351",
+   "title": "cocaine and hookerz vox_2 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:22",
+   "src": "mrgreenwise/Unknown Album/01 cocaine and hookerz vox_2 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-complete-myself-needs-ben-vocal-352",
+   "title": "complete myself needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:02",
+   "src": "mrgreenwise/Unknown Album/complete myself needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-cowboys-in-california-njew-vox-3-24-cover-353",
+   "title": "cowboys in california njew vox 3 24 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:59",
+   "src": "mrgreenwise/Unknown Album/cowboys in california njew vox 3 24 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-cowgirl-cover-needs-preslee-vocal-354",
+   "title": "Cowgirl (Cover) needs preslee vocal",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:16",
+   "src": "mrgreenwise/Unknown Album/Cowgirl (Cover) needs preslee vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-damn-you-look-good-challenge-accepted-355",
+   "title": "damn you look good Challenge Accepted",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:30",
+   "src": "mrgreenwise/Unknown Album/damn you look good Challenge Accepted -.mp3"
+  },
+  {
+   "id": "mrgreenwise-doin-something-crazy-356",
+   "title": "Doin something crazy",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:02",
+   "src": "mrgreenwise/Unknown Album/Doin something crazy.mp3"
+  },
+  {
+   "id": "mrgreenwise-don-t-know-much-spanish-with-ashley-cover-357",
+   "title": "Don_t know much Spanish with Ashley (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:27",
+   "src": "mrgreenwise/Unknown Album/Don_t know much Spanish with Ashley (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-don-t-shaboozy-my-country-music-358",
+   "title": "Don_t Shaboozy my country music",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:27",
+   "src": "mrgreenwise/Unknown Album/Don_t Shaboozy my country music.mp3"
+  },
+  {
+   "id": "mrgreenwise-every-backroad-3-cover-359",
+   "title": "Every Backroad 3 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "mrgreenwise/Unknown Album/Every Backroad 3 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-every-time-i-fall-2-cover-360",
+   "title": "Every time I Fall 2 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:59",
+   "src": "mrgreenwise/Unknown Album/Every time I Fall 2 (Cover) 1.mp3"
+  },
+  {
+   "id": "mrgreenwise-feet-under-country-361",
+   "title": "feet under country",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:54",
+   "src": "mrgreenwise/Unknown Album/6 feet under country.mp3"
+  },
+  {
+   "id": "mrgreenwise-feet-under-dirt-362",
+   "title": "feet under dirt",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:39",
+   "src": "mrgreenwise/Unknown Album/6 feet under dirt.mp3"
+  },
+  {
+   "id": "mrgreenwise-finally-3-verse-cover-363",
+   "title": "Finally 3 verse (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:04",
+   "src": "mrgreenwise/Unknown Album/Finally 3 verse (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-for-a-man-to-be-alone-364",
+   "title": "For a man to be alone",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "mrgreenwise/Unknown Album/For a man to be alone.mp3"
+  },
+  {
+   "id": "mrgreenwise-git-r-out-drums-edited-needs-ben-vocal-365",
+   "title": "Git R Out - Drums Edited needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:08",
+   "src": "mrgreenwise/Unknown Album/Git R Out - Drums Edited needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-give-me-a-two-step-work-on-this-366",
+   "title": "Give me a two step work on this!!!",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:26",
+   "src": "mrgreenwise/Unknown Album/Give me a two step  work on this!!!.mp3"
+  },
+  {
+   "id": "mrgreenwise-grief-367",
+   "title": "grief",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:53",
+   "src": "mrgreenwise/Unknown Album/09 grief.mp3"
+  },
+  {
+   "id": "mrgreenwise-he-just-wants-to-2-cover-needs-ben-vocal-368",
+   "title": "he just wants to 2 (Cover) needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:52",
+   "src": "mrgreenwise/Unknown Album/he just wants to 2 (Cover) needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-hold-my-opurse-cover-369",
+   "title": "HOLD MY OPURSE (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "mrgreenwise/Unknown Album/HOLD MY OPURSE (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-home-to-palmdale-needs-ben-vocal-370",
+   "title": "home to palmdale needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:03",
+   "src": "mrgreenwise/Unknown Album/home to palmdale needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-i-just-got-a-broken-heart-371",
+   "title": "I just got a broken heart",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:47",
+   "src": "mrgreenwise/Unknown Album/I just got a broken heart.mp3"
+  },
+  {
+   "id": "mrgreenwise-i-want-it-all-22-good-3-cover-372",
+   "title": "i want it all 22 good_3 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:13",
+   "src": "mrgreenwise/Unknown Album/i want it all 22 good_3 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-i-l-stop-this-song-c-f-f-c-a-ff-c-bridge-g-a-f-cover-373",
+   "title": "I'L STOP THIS SONG C# F F# C# A#FF#C# BRIDGE G# A# F# (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:54",
+   "src": "mrgreenwise/Unknown Album/I'L STOP THIS SONG  C# F F# C#    A#FF#C#   BRIDGE G# A# F# (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-it-flys-fast-374",
+   "title": "it flys fast",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:42",
+   "src": "mrgreenwise/Unknown Album/it flys fast.mp3"
+  },
+  {
+   "id": "mrgreenwise-jizt-375",
+   "title": "Jizt",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:29",
+   "src": "mrgreenwise/Unknown Album/Jizt.mp3"
+  },
+  {
+   "id": "mrgreenwise-just-have-some-fun-e-chrs-aceg-cover-376",
+   "title": "Just Have some Fun. E. chrs. ACEG (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:19",
+   "src": "mrgreenwise/Unknown Album/01 Just Have some Fun. E. chrs. ACEG (Cover) 1.mp3"
+  },
+  {
+   "id": "mrgreenwise-knee-high-sun-instrumental-377",
+   "title": "Knee high sun (Instrumental)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:41",
+   "src": "mrgreenwise/Unknown Album/Knee high sun  (Instrumental).mp3"
+  },
+  {
+   "id": "mrgreenwise-last-four-days-378",
+   "title": "Last four days",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "mrgreenwise/Unknown Album/Last four days.mp3"
+  },
+  {
+   "id": "mrgreenwise-little-dirty-130bpm-4-cover-379",
+   "title": "little dirty 130bpm_4 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "mrgreenwise/Unknown Album/little dirty 130bpm_4 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-lowly-sucka-380",
+   "title": "lowly sucka",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:56",
+   "src": "mrgreenwise/Unknown Album/lowly sucka.mp3"
+  },
+  {
+   "id": "mrgreenwise-magic-polar-bear-1-1-cover-381",
+   "title": "magic polar bear 1_1 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:27",
+   "src": "mrgreenwise/Unknown Album/magic polar bear 1_1 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-makin-bad-decisions-01-382",
+   "title": "Makin' Bad Decisions 01",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "mrgreenwise/Unknown Album/Makin' Bad Decisions 01-24-2021.mp3"
+  },
+  {
+   "id": "mrgreenwise-mother-nature-cover-cover-383",
+   "title": "Mother Nature (Cover) (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:52",
+   "src": "mrgreenwise/Unknown Album/14 Mother Nature (Cover) (Cover) 1.mp3"
+  },
+  {
+   "id": "mrgreenwise-my-heart-could-use-some-air-cover-384",
+   "title": "My Heart could use some Air (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:56",
+   "src": "mrgreenwise/Unknown Album/My Heart could use some Air (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-nice-cars-in-bad-neighborhoods-needs-ben-vocal-385",
+   "title": "nice cars in bad neighborhoods needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:17",
+   "src": "mrgreenwise/Unknown Album/nice cars in bad neighborhoods needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-not-your-boyfriend-anymore-08-no-click-cover-386",
+   "title": "Not Your Boyfriend Anymore 08- no click (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:04",
+   "src": "mrgreenwise/Unknown Album/01 Not Your Boyfriend Anymore 08- no click (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-ogp-we-rock-the-party-cover-387",
+   "title": "OGP we rock the party (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:06",
+   "src": "mrgreenwise/Unknown Album/OGP we rock the party (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-one-more-drink-needsn-ben-vocal-388",
+   "title": "one more drink needsn ben Vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:32",
+   "src": "mrgreenwise/Unknown Album/one more drink needsn ben Vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-please-hate-me-needs-ben-vocal-389",
+   "title": "please haTE ME. needs ben vocal",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:48",
+   "src": "mrgreenwise/Unknown Album/please haTE ME. needs ben vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-redneck-date-night-needs-lyrics-and-ben-vocals-390",
+   "title": "Redneck date night needs lyrics and ben vocals",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "mrgreenwise/Unknown Album/Redneck date night needs lyrics and ben vocals.mp3"
+  },
+  {
+   "id": "mrgreenwise-sad-song-good-12-high-1-cover-391",
+   "title": "sad song good_12 high_1 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:31",
+   "src": "mrgreenwise/Unknown Album/sad song good_12 high_1 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-safe-at-the-bottom-new-vox-cover-392",
+   "title": "safe at the bottom new vox (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:16",
+   "src": "mrgreenwise/Unknown Album/safe at the bottom new vox (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-step-back-cover-393",
+   "title": "Step Back (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:57",
+   "src": "mrgreenwise/Unknown Album/10 Step Back (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-still-gonna-be-my-fault-so-far-fave-394",
+   "title": "Still Gonna Be My Fault so far fave",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:14",
+   "src": "mrgreenwise/Unknown Album/Still Gonna Be My Fault  so far fave.mp3"
+  },
+  {
+   "id": "mrgreenwise-straight-shot-395",
+   "title": "STRAIGHT SHOT",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:17",
+   "src": "mrgreenwise/Unknown Album/STRAIGHT SHOT.mp3"
+  },
+  {
+   "id": "mrgreenwise-sympathy-396",
+   "title": "Sympathy",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:24",
+   "src": "mrgreenwise/Unknown Album/15 Sympathy.mp3"
+  },
+  {
+   "id": "mrgreenwise-take-me-back-needs-bens-vox-397",
+   "title": "Take me back needs bens vox",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:14",
+   "src": "mrgreenwise/Unknown Album/Take me back needs bens vox.mp3"
+  },
+  {
+   "id": "mrgreenwise-take-your-cousin-398",
+   "title": "Take your cousin",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "0:39",
+   "src": "mrgreenwise/Unknown Album/Take your cousin.mp3"
+  },
+  {
+   "id": "mrgreenwise-teach-me-to-dance-1-verse-1-cover-399",
+   "title": "teach me to dance 1 verse_1 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:49",
+   "src": "mrgreenwise/Unknown Album/teach me to dance  1 verse_1 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-the-donkey-sits-in-the-grass-400",
+   "title": "the donkey sits in the grass",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:51",
+   "src": "mrgreenwise/Unknown Album/the  donkey sits in the grass.mp3"
+  },
+  {
+   "id": "mrgreenwise-the-front-cover-401",
+   "title": "the front (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:42",
+   "src": "mrgreenwise/Unknown Album/09 the front (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-the-front-jazz-cover-402",
+   "title": "the front (Jazz Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:24",
+   "src": "mrgreenwise/Unknown Album/09 the front  (Jazz Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-the-lord-giveth-cover-403",
+   "title": "the lord giveth (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "0:59",
+   "src": "mrgreenwise/Unknown Album/the lord giveth (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-till-i-die-1225-cover-404",
+   "title": "till i die 1225 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:19",
+   "src": "mrgreenwise/Unknown Album/till i die 1225 (Cover).mp3"
+  },
+  {
+   "id": "mrgreenwise-time-i-borrowed-405",
+   "title": "time i borrowed",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:14",
+   "src": "mrgreenwise/Unknown Album/time i borrowed.mp3"
+  },
+  {
+   "id": "mrgreenwise-too-drunk-cover-needds-ben-vocal-406",
+   "title": "too drunk (Cover) needds ben Vocal",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:14",
+   "src": "mrgreenwise/Unknown Album/too drunk (Cover) needds ben Vocal.mp3"
+  },
+  {
+   "id": "mrgreenwise-wish-i-was-an-airplane-407",
+   "title": "Wish i was an airplane",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:09",
+   "src": "mrgreenwise/Unknown Album/Wish i was an airplane.mp3"
+  },
+  {
+   "id": "mrgreenwise-you-can-call-me-daddy-408",
+   "title": "you can call me daddy",
+   "cat": "mrgreenwise",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "1:46",
+   "src": "mrgreenwise/Unknown Album/you can call me daddy.mp3"
+  },
+  {
+   "id": "mrgreenwise-you-can-do-better-winer-22-cover-409",
+   "title": "you can do better winer 22 (Cover)",
+   "cat": "mrgreenwise",
+   "tags": [
+    "cover"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:37",
+   "src": "mrgreenwise/Unknown Album/you can do better winer 22 (Cover).mp3"
+  },
+  {
+   "id": "projectyles-01-foundation-stems-new-410",
+   "title": "01 foundation stems new",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:08",
+   "src": "Projectyles/Unknown Album/01 foundation stems new.mp3"
+  },
+  {
+   "id": "projectyles-01-generious-stems-411",
+   "title": "01 generious stems",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:14",
+   "src": "Projectyles/Unknown Album/01 generious stems.mp3"
+  },
+  {
+   "id": "projectyles-2-new-songs-412",
+   "title": "2 new songs",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:37",
+   "src": "Projectyles/Unknown Album/2 new songs.mp3"
+  },
+  {
+   "id": "projectyles-aloha-413",
+   "title": "aloha",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:43",
+   "src": "Projectyles/Unknown Album/aloha.mp3"
+  },
+  {
+   "id": "projectyles-aloha-motel-done-jul-8-filtered-414",
+   "title": "Aloha Motel done Jul 8 filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:14",
+   "src": "Projectyles/Unknown Album/Aloha Motel done Jul 8_filtered.mp3"
+  },
+  {
+   "id": "projectyles-aloha-motel-filtered-415",
+   "title": "aloha motel filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:16",
+   "src": "Projectyles/Unknown Album/aloha motel_filtered.mp3"
+  },
+  {
+   "id": "projectyles-aloha-new-416",
+   "title": "aloha new",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:16",
+   "src": "Projectyles/Unknown Album/aloha new.mp3"
+  },
+  {
+   "id": "projectyles-aloha-w-vox-417",
+   "title": "aloha w vox",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:19",
+   "src": "Projectyles/Unknown Album/aloha w vox.mp3"
+  },
+  {
+   "id": "projectyles-bever-alon-418",
+   "title": "bever alon",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "Projectyles/Unknown Album/bever alon.mp3"
+  },
+  {
+   "id": "projectyles-blame-it-all-419",
+   "title": "Blame it all",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:32",
+   "src": "Projectyles/Unknown Album/Blame it all.mp3"
+  },
+  {
+   "id": "projectyles-cigarette-girl-420",
+   "title": "Cigarette Girl",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:59",
+   "src": "Projectyles/Unknown Album/Cigarette Girl.mp3"
+  },
+  {
+   "id": "projectyles-come-back-to-me-421",
+   "title": "Come Back to me",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "7:00",
+   "src": "Projectyles/Unknown Album/Come Back to me.mp3"
+  },
+  {
+   "id": "projectyles-days-like-this-live-422",
+   "title": "Days Like This Live",
+   "cat": "projectyles",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:40",
+   "src": "Projectyles/Unknown Album/Days Like This Live.mp3"
+  },
+  {
+   "id": "projectyles-fast-track-423",
+   "title": "Fast Track",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:18",
+   "src": "Projectyles/Unknown Album/Fast Track.mp3"
+  },
+  {
+   "id": "projectyles-finally-3-verse-424",
+   "title": "Finally 3 verse",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:35",
+   "src": "Projectyles/Unknown Album/Finally 3 verse.mp3"
+  },
+  {
+   "id": "projectyles-forget-love-425",
+   "title": "forget love",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:53",
+   "src": "Projectyles/Unknown Album/forget love.mp3"
+  },
+  {
+   "id": "projectyles-forget-love-its-not-worth-it-live-1-426",
+   "title": "forget love -  its not worth it  live 1",
+   "cat": "projectyles",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:44",
+   "src": "Projectyles/Unknown Album/forget love - _its not worth it_ live 1.mp3"
+  },
+  {
+   "id": "projectyles-forget-love-new-vox-2-filtered-427",
+   "title": "Forget Love new vox 2 filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:47",
+   "src": "Projectyles/Unknown Album/Forget Love new vox 2_filtered.mp3"
+  },
+  {
+   "id": "projectyles-foundation-428",
+   "title": "foundation",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:02",
+   "src": "Projectyles/Unknown Album/foundation.mp3"
+  },
+  {
+   "id": "projectyles-fpoundatiom-live-429",
+   "title": "fpoundatiom live",
+   "cat": "projectyles",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:34",
+   "src": "Projectyles/Unknown Album/fpoundatiom live.mp3"
+  },
+  {
+   "id": "projectyles-generious-430",
+   "title": "generious",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:35",
+   "src": "Projectyles/Unknown Album/generious.mp3"
+  },
+  {
+   "id": "projectyles-generoucity-filtered-431",
+   "title": "generoucity filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "5:02",
+   "src": "Projectyles/Unknown Album/generoucity_filtered.mp3"
+  },
+  {
+   "id": "projectyles-generousity-instr-432",
+   "title": "generousity instr",
+   "cat": "projectyles",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:36",
+   "src": "Projectyles/Unknown Album/generousity instr.mp3"
+  },
+  {
+   "id": "projectyles-i-want-it-all-11-13-13-433",
+   "title": "i want it all 11 13 13",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:11",
+   "src": "Projectyles/Unknown Album/i want it all 11 13 13.mp3"
+  },
+  {
+   "id": "projectyles-i-want-it-all-low-mids-filtered-434",
+   "title": "i want it all low mids filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:16",
+   "src": "Projectyles/Unknown Album/i want it all low mids_filtered.mp3"
+  },
+  {
+   "id": "projectyles-i-want-it-all-new-vox-filtered001-435",
+   "title": "I want it all new vox filtered001",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "2:17",
+   "src": "Projectyles/Unknown Album/I want it all new vox_filtered001.mp3"
+  },
+  {
+   "id": "projectyles-jam-jan-30-08-436",
+   "title": "jam jan 30 08",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "28:48",
+   "src": "Projectyles/Unknown Album/jam jan 30_08.mp3"
+  },
+  {
+   "id": "projectyles-less-is-more-11-14-13-437",
+   "title": "less is more 11 14 13",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:28",
+   "src": "Projectyles/Unknown Album/less is more 11 14 13.mp3"
+  },
+  {
+   "id": "projectyles-less-is-more-done-julye-8-filtered-438",
+   "title": "Less is more done julye 8 filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:37",
+   "src": "Projectyles/Unknown Album/Less is more done julye 8_filtered.mp3"
+  },
+  {
+   "id": "projectyles-less-is-more-jul-29-filtered-439",
+   "title": "less is more jul 29 filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:28",
+   "src": "Projectyles/Unknown Album/less is more jul 29_filtered.mp3"
+  },
+  {
+   "id": "projectyles-lowly-sucka-440",
+   "title": "lowly sucka",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "9:39",
+   "src": "Projectyles/Unknown Album/lowly sucka.mp3"
+  },
+  {
+   "id": "projectyles-move-on-with-a-new-blonde-live-441",
+   "title": "move on with a new blonde Live",
+   "cat": "projectyles",
+   "tags": [
+    "live"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Projectyles/Unknown Album/move on with a new blonde Live.mp3"
+  },
+  {
+   "id": "projectyles-my-heart-could-use-some-air-442",
+   "title": "My Heart could use some Air",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:58",
+   "src": "Projectyles/Unknown Album/My Heart could use some Air.mp3"
+  },
+  {
+   "id": "projectyles-never-alone-instr-443",
+   "title": "never alone instr",
+   "cat": "projectyles",
+   "tags": [
+    "instrumental"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:20",
+   "src": "Projectyles/Unknown Album/never alone instr.mp3"
+  },
+  {
+   "id": "projectyles-omg-lol-haha-444",
+   "title": "OMG LOL HAHa",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:33",
+   "src": "Projectyles/Unknown Album/OMG LOL HAHa.mp3"
+  },
+  {
+   "id": "projectyles-people-celebrate-445",
+   "title": "people celebrate",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Projectyles/Unknown Album/people celebrate.mp3"
+  },
+  {
+   "id": "projectyles-projectyles-3-song-mix-filtered-446",
+   "title": "Projectyles 3 song mix filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "3:12",
+   "src": "Projectyles/Unknown Album/Projectyles 3 song mix_filtered.mp3"
+  },
+  {
+   "id": "projectyles-send-fury-new-instr-filtered-447",
+   "title": "send fury new instr  filtered",
+   "cat": "projectyles",
+   "tags": [
+    "instrumental",
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "6:18",
+   "src": "Projectyles/Unknown Album/send fury new instr _filtered.mp3"
+  },
+  {
+   "id": "projectyles-send-fury-new-mix-2-1-448",
+   "title": "send fury new mix 2 1",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "Projectyles/Unknown Album/send fury new mix 2 1.mp3"
+  },
+  {
+   "id": "projectyles-seventies-449",
+   "title": "seventies",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:59",
+   "src": "Projectyles/Unknown Album/seventies.mp3"
+  },
+  {
+   "id": "projectyles-she-goes-on-filtered-450",
+   "title": "she goes on filtered",
+   "cat": "projectyles",
+   "tags": [
+    "rough"
+   ],
+   "note": "",
+   "audio": "",
+   "dur": "4:22",
+   "src": "Projectyles/Unknown Album/she goes on_filtered.mp3"
+  },
+  {
+   "id": "projectyles-sleepless-451",
+   "title": "sleepless",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:13",
+   "src": "Projectyles/Unknown Album/sleepless.mp3"
+  },
+  {
+   "id": "projectyles-the-hook-saysd-it-all-452",
+   "title": "The Hook saysd it all",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:55",
+   "src": "Projectyles/Unknown Album/The Hook saysd it all.mp3"
+  },
+  {
+   "id": "projectyles-this-is-the-time-453",
+   "title": "this is the time",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "4:13",
+   "src": "Projectyles/Unknown Album/this is the time.mp3"
+  },
+  {
+   "id": "projectyles-tried-my-best-to-turn-you-on-454",
+   "title": "tried my best to turn you on",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "3:10",
+   "src": "Projectyles/Unknown Album/tried my best to turn you on.mp3"
+  },
+  {
+   "id": "projectyles-you-said-you-d-love-me-455",
+   "title": "You said you'd love me",
+   "cat": "projectyles",
+   "tags": [],
+   "note": "",
+   "audio": "",
+   "dur": "2:40",
+   "src": "Projectyles/Unknown Album/You said you'd love me.m4a"
+  }
+ ]
+}

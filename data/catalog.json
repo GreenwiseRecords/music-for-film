@@ -74,26 +74,6 @@
  ],
  "tracks": [
   {
-   "id": "benny-thomas-ain-t-nobody-mix-final-v-1",
-   "title": "Ain't Nobody - Mix Final V",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-ain-t-nobody-mix-final-v-1.mp3",
-   "dur": "3:22",
-   "src": "Benny Thomas band/Unknown Album/Ain't Nobody - Mix Final V2.mp3"
-  },
-  {
-   "id": "benny-thomas-ain-t-nobody-ever-record-version-2",
-   "title": "Ain't Nobody Ever - Record Version",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-ain-t-nobody-ever-record-version-2.mp3",
-   "dur": "3:22",
-   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/05 Ain't Nobody Ever - Record Version.mp3"
-  },
-  {
    "id": "benny-thomas-aint-going-down-back-track-3",
    "title": "aint going down back track",
    "cat": "benny-thomas",
@@ -410,26 +390,6 @@
    "src": "Benny Thomas Back up tracks/Unknown Album/COUNTRY GIRL FIXD 2.mp3"
   },
   {
-   "id": "benny-thomas-daddy-s-at-the-bar-34",
-   "title": "Daddy's At The Bar",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-daddy-s-at-the-bar-34.mp3",
-   "dur": "4:17",
-   "src": "Benny Thomas band/Unknown Album/Daddy's At The Bar 2.mp3"
-  },
-  {
-   "id": "benny-thomas-daddy-s-at-the-bar-record-version-35",
-   "title": "Daddy's At The Bar - Record version",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-daddy-s-at-the-bar-record-version-35.mp3",
-   "dur": "4:17",
-   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/04 Daddy's At The Bar - Record version.mp3"
-  },
-  {
    "id": "benny-thomas-damn-you-look-good-challenge-accepted-36",
    "title": "damn you look good Challenge Accepted",
    "cat": "benny-thomas",
@@ -574,26 +534,6 @@
    "audio": "audio/benny-thomas-good-luck-mix-v-49.mp3",
    "dur": "3:59",
    "src": "Benny Thomas/Benny Thomas/01 Good Luck Mix V3.mp3"
-  },
-  {
-   "id": "benny-thomas-good-luck-with-that-50",
-   "title": "GOOD LUCK WITH THAT",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-good-luck-with-that-50.mp3",
-   "dur": "3:50",
-   "src": "Benny Thomas/Unknown Album/GOOD LUCK WITH THAT.mp3"
-  },
-  {
-   "id": "benny-thomas-good-luck-with-that-mix-final-e-d-acb-e-51",
-   "title": "Good Luck With That - Mix Final -E D-ACB E",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-good-luck-with-that-mix-final-e-d-acb-e-51.wav",
-   "dur": "3:59",
-   "src": "Benny Thomas/Unknown Album/Good Luck With That - Mix Final -E D-ACB E..wav"
   },
   {
    "id": "benny-thomas-grouge-live-march-29-52",
@@ -968,16 +908,6 @@
    "src": "Benny Thomas band/Unknown Album/01 Makin' Bad Decisions 01-24-202.mp3"
   },
   {
-   "id": "benny-thomas-maybe-it-s-love-mix-02-88",
-   "title": "Maybe It's Love Mix 02",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-maybe-it-s-love-mix-02-88.mp3",
-   "dur": "2:41",
-   "src": "Benny Thomas/Benny Thomas/01 Maybe It's Love Mix 02-13-2019.mp3"
-  },
-  {
    "id": "benny-thomas-maybe-its-love-filtered-89",
    "title": "maybe its love_filtered",
    "cat": "benny-thomas",
@@ -1104,36 +1034,6 @@
    "src": "Beny Thomas Band/Benny Thomas Demos/01 one more drink Ben Vox D F C G.mp3"
   },
   {
-   "id": "benny-thomas-one-song-away-mix-101",
-   "title": "one Song Away - Mix",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-one-song-away-mix-101.mp3",
-   "dur": "3:43",
-   "src": "Benny Thomas/Benny Thomas/01 one Song Away - Mix.mp3"
-  },
-  {
-   "id": "benny-thomas-only-want-one-record-version-102",
-   "title": "only want one record version",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-only-want-one-record-version-102.mp3",
-   "dur": "3:07",
-   "src": "Benny Thomas band/Unknown Album/only want one record version.mp3"
-  },
-  {
-   "id": "benny-thomas-over-and-over-103",
-   "title": "Over & Over",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-over-and-over-103.mp3",
-   "dur": "3:40",
-   "src": "Benny Thomas band/Tumbleweeds & Joshua Trees Ep/03 Over & Over.mp3"
-  },
-  {
    "id": "benny-thomas-over-again-3-filtered-104",
    "title": "over again 3_filtered",
    "cat": "benny-thomas",
@@ -1214,16 +1114,6 @@
    "audio": "audio/benny-thomas-sawdust-on-the-floor-08-111.mp3",
    "dur": "4:14",
    "src": "Benny Thomas band/I was drunk and im sorry/01 Sawdust On The Floor 08-04-202.mp3"
-  },
-  {
-   "id": "benny-thomas-set-2-only-want-one-08-112",
-   "title": "Set 2 Only Want One 08",
-   "cat": "benny-thomas",
-   "tags": [],
-   "note": "",
-   "audio": "audio/benny-thomas-set-2-only-want-one-08-112.mp3",
-   "dur": "3:11",
-   "src": "Benny Thomas band/I was drunk and im sorry/01 Set 2   Only Want One 08-04-2021.mp3"
   },
   {
    "id": "benny-thomas-small-pond-113",
@@ -2444,38 +2334,6 @@
    "src": "Cornfield/Full Size Files/09 Your Pretty eyes.mp3"
   },
   {
-   "id": "dirt-farmers-another-dimension-live-229",
-   "title": "Another Dimension live",
-   "cat": "dirt-farmers",
-   "tags": [
-    "live"
-   ],
-   "note": "",
-   "audio": "",
-   "dur": "2:53",
-   "src": "Dirt Farmers/Full Size Files/02 Another Dimension live.mp3"
-  },
-  {
-   "id": "dirt-farmers-another-dimention-4-230",
-   "title": "another dimention 4",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:35",
-   "src": "Dirt Farmers/Unknown Album/another dimention 4-30-03.mp3"
-  },
-  {
-   "id": "dirt-farmers-changes-new-231",
-   "title": "changes new",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "3:09",
-   "src": "Dirt Farmers/Unknown Album/changes new.mp3"
-  },
-  {
    "id": "dirt-farmers-classified-232",
    "title": "classified",
    "cat": "dirt-farmers",
@@ -2531,16 +2389,6 @@
    "src": "Dirt Farmers/Unknown Album/hero instr.mp3"
   },
   {
-   "id": "dirt-farmers-midlife-done-237",
-   "title": "midlife done",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:05",
-   "src": "Dirt Farmers/Unknown Album/midlife done.mp3"
-  },
-  {
    "id": "dirt-farmers-more-than-10-ways-238",
    "title": "more than 10 ways",
    "cat": "dirt-farmers",
@@ -2549,36 +2397,6 @@
    "audio": "",
    "dur": "1:05",
    "src": "Dirt Farmers/Unknown Album/13 more than 10 ways.mp3"
-  },
-  {
-   "id": "dirt-farmers-mr-hollywood-239",
-   "title": "Mr. Hollywood",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:38",
-   "src": "Dirt Farmers/Experimental Hip Hop EP/03 Mr. Hollywood.mp3"
-  },
-  {
-   "id": "dirt-farmers-mr-hollywood-remix-by-crs-240",
-   "title": "Mr. Hollywood Remix By Crs",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "4:22",
-   "src": "Dirt Farmers/Experimental Hip Hop EP/10 Mr. Hollywood Remix By Crs_.mp3"
-  },
-  {
-   "id": "dirt-farmers-never-stop-241",
-   "title": "Never Stop",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "3:16",
-   "src": "Dirt Farmers/Experimental Hip Hop EP/07 Never Stop.mp3"
   },
   {
    "id": "dirt-farmers-pioneer-pusher-242",
@@ -2621,16 +2439,6 @@
    "src": "Dirt Farmers/Unknown Album/10 ROKIT.mp3"
   },
   {
-   "id": "dirt-farmers-separate-the-image-246",
-   "title": "Separate the Image",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:48",
-   "src": "Dirt Farmers/Experimental Hip Hop - EP/09 Separate the Image.m4a"
-  },
-  {
    "id": "dirt-farmers-taking-out-the-trash-247",
    "title": "taking out the trash",
    "cat": "dirt-farmers",
@@ -2639,16 +2447,6 @@
    "audio": "",
    "dur": "1:45",
    "src": "Dirt Farmers/Unknown Album/10 taking out the trash.mp3"
-  },
-  {
-   "id": "dirt-farmers-theme-248",
-   "title": "Theme",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "0:42",
-   "src": "Dirt Farmers/Experimental Hip Hop EP/04 Theme.mp3"
   },
   {
    "id": "dirt-farmers-upright-animals-w-brad-249",
@@ -2661,16 +2459,6 @@
    "src": "The Dirt Farmers/Unknown Album/upright animals_w brad.mp3"
   },
   {
-   "id": "dirt-farmers-we-got-a-problem-250",
-   "title": "We Got A Problem",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:31",
-   "src": "Dirt Farmers/Experimental Hip Hop EP/06 We Got A Problem.mp3"
-  },
-  {
    "id": "dirt-farmers-weekends-turns-251",
    "title": "weekends turns",
    "cat": "dirt-farmers",
@@ -2679,26 +2467,6 @@
    "audio": "",
    "dur": "3:00",
    "src": "The Dirt Farmers/Unknown Album/weekends turns.mp3"
-  },
-  {
-   "id": "dirt-farmers-what-your-after-252",
-   "title": "What Your After",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:05",
-   "src": "Dirt Farmers/Experimental Hip Hop - EP/05 What Your After.m4a"
-  },
-  {
-   "id": "dirt-farmers-what-your-after-newste-253",
-   "title": "what your after newste",
-   "cat": "dirt-farmers",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "2:19",
-   "src": "Dirt Farmers/cornfields music/what your after newste.mp3"
   },
   {
    "id": "dirt-farmers-whats-on-tap-10-254",
@@ -2763,28 +2531,6 @@
    "src": "disappearance/Unknown Album/a day in minor vox.mp3"
   },
   {
-   "id": "disappearance-anthem-clean-260",
-   "title": "Anthem clean",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-anthem-clean-260.mp3",
-   "dur": "2:48",
-   "src": "disappearance/Unknown Album/Anthem clean.mp3"
-  },
-  {
-   "id": "disappearance-anthem-live-261",
-   "title": "Anthem Live",
-   "cat": "disappearance",
-   "tags": [
-    "live"
-   ],
-   "note": "",
-   "audio": "audio/disappearance-anthem-live-261.mp3",
-   "dur": "3:27",
-   "src": "disappearance Live at Nicholbys/Live At Nicholbys/12 Anthem Live.mp3"
-  },
-  {
    "id": "disappearance-baby-baby-needs-bass-262",
    "title": "baby baby needs bass",
    "cat": "disappearance",
@@ -2803,36 +2549,6 @@
    "audio": "audio/disappearance-blacklisted-263.mp3",
    "dur": "3:42",
    "src": "disappearance/Full Size Files/01 Blacklisted.mp3"
-  },
-  {
-   "id": "disappearance-break-thru-264",
-   "title": "Break Thru",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-break-thru-264.mp3",
-   "dur": "4:04",
-   "src": "disappearance/Spun for a loop CD/12 Break Thru.mp3"
-  },
-  {
-   "id": "disappearance-consistantly-drinkin-265",
-   "title": "Consistantly Drinkin'",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-consistantly-drinkin-265.m4a",
-   "dur": "3:38",
-   "src": "disappearance/Spun For A Loop/03 Consistantly Drinkin'.m4a"
-  },
-  {
-   "id": "disappearance-consistantly-new-266",
-   "title": "consistantly new",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-consistantly-new-266.mp3",
-   "dur": "3:38",
-   "src": "disappearance/Unknown Album/21 consistantly new.mp3"
   },
   {
    "id": "disappearance-consistantlydone-filtered-267",
@@ -2889,28 +2605,6 @@
    "src": "disappearance/Unknown Album/drinking song clean.mp3"
   },
   {
-   "id": "disappearance-drop-live-272",
-   "title": "Drop Live",
-   "cat": "disappearance",
-   "tags": [
-    "live"
-   ],
-   "note": "",
-   "audio": "audio/disappearance-drop-live-272.mp3",
-   "dur": "3:16",
-   "src": "disappearance Live at Nicholbys/Live At Nicholbys/11 Drop Live.mp3"
-  },
-  {
-   "id": "disappearance-drop-practice-10-273",
-   "title": "drop practice 10",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "",
-   "dur": "3:14",
-   "src": "disappearance/Unknown Album/drop practice 10-27-05.mp3"
-  },
-  {
    "id": "disappearance-fugit-274",
    "title": "Fugit",
    "cat": "disappearance",
@@ -2919,16 +2613,6 @@
    "audio": "audio/disappearance-fugit-274.mp3",
    "dur": "2:44",
    "src": "disappearance/Full Size Files/02 Fugit.mp3"
-  },
-  {
-   "id": "disappearance-get-up-275",
-   "title": "Get Up",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-get-up-275.mp3",
-   "dur": "3:01",
-   "src": "disappearance/Spun For A Loop/04 Get Up.mp3"
   },
   {
    "id": "disappearance-high-school-all-over-276",
@@ -2981,16 +2665,6 @@
    "src": "disappearance/Unknown Album/miami vice.mp3"
   },
   {
-   "id": "disappearance-prelude-to-sex-281",
-   "title": "prelude to sex",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-prelude-to-sex-281.mp3",
-   "dur": "3:30",
-   "src": "disappearance/Spun For A Loop/06 prelude to sex.mp3"
-  },
-  {
    "id": "disappearance-pusher-282",
    "title": "pusher",
    "cat": "disappearance",
@@ -3001,28 +2675,6 @@
    "src": "disappearance/Unknown Album/pusher.mp3"
   },
   {
-   "id": "disappearance-rain-in-cali-live-283",
-   "title": "Rain in cali Live",
-   "cat": "disappearance",
-   "tags": [
-    "live"
-   ],
-   "note": "",
-   "audio": "audio/disappearance-rain-in-cali-live-283.mp3",
-   "dur": "4:06",
-   "src": "disappearance Live at Nicholbys/Live At Nicholbys/14 Rain in cali Live.mp3"
-  },
-  {
-   "id": "disappearance-rain-in-california-284",
-   "title": "Rain In California",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-rain-in-california-284.mp3",
-   "dur": "2:43",
-   "src": "disappearance/Spun For A Loop/01 Rain In California.mp3"
-  },
-  {
    "id": "disappearance-realisticly-vox-285",
    "title": "realisticly vox",
    "cat": "disappearance",
@@ -3031,86 +2683,6 @@
    "audio": "audio/disappearance-realisticly-vox-285.mp3",
    "dur": "3:39",
    "src": "disappearance/Unknown Album/01 realisticly vox1.mp3"
-  },
-  {
-   "id": "disappearance-retrospect-286",
-   "title": "Retrospect",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-retrospect-286.mp3",
-   "dur": "2:58",
-   "src": "disappearance/Spun For A Loop/07 Retrospect.mp3"
-  },
-  {
-   "id": "disappearance-step-back-287",
-   "title": "Step Back",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-step-back-287.mp3",
-   "dur": "2:49",
-   "src": "disappearance/Spun For A Loop/10 Step Back.mp3"
-  },
-  {
-   "id": "disappearance-summer-288",
-   "title": "Summer",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-summer-288.mp3",
-   "dur": "3:13",
-   "src": "disappearance/Spun For A Loop/10 Summer.mp3"
-  },
-  {
-   "id": "disappearance-thats-right-289",
-   "title": "Thats Right",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-thats-right-289.mp3",
-   "dur": "2:36",
-   "src": "disappearance/Spun For A Loop/02 Thats Right.mp3"
-  },
-  {
-   "id": "disappearance-the-anthem-290",
-   "title": "The anthem",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-the-anthem-290.mp3",
-   "dur": "2:45",
-   "src": "disappearance/Unknown Album/08 The anthem.mp3"
-  },
-  {
-   "id": "disappearance-the-drop-291",
-   "title": "The Drop",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-the-drop-291.mp3",
-   "dur": "3:23",
-   "src": "disappearance/Unknown Album/09 The Drop.mp3"
-  },
-  {
-   "id": "disappearance-think-it-over-292",
-   "title": "Think IT Over",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-think-it-over-292.mp3",
-   "dur": "3:35",
-   "src": "disappearance/Spun For A Loop/05 Think IT Over.mp3"
-  },
-  {
-   "id": "disappearance-what-people-want-293",
-   "title": "What People Want",
-   "cat": "disappearance",
-   "tags": [],
-   "note": "",
-   "audio": "audio/disappearance-what-people-want-293.mp3",
-   "dur": "3:42",
-   "src": "disappearance/Spun For A Loop/11 What People Want.mp3"
   },
   {
    "id": "disappearance-you-call-mastered-294",

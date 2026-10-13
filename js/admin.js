@@ -194,6 +194,7 @@
     $("#manageBtn").onclick = () => {
       manage = !manage;
       $("#manage").hidden = !manage;
+      $("#manage").style.display = manage ? "grid" : "none";
       $("#manageBtn").textContent = manage ? "Done" : "Manage";
       setPanel();
       if (manage) { fillCats(); M.renderList(); if (!state.data.categories.length) M.loadData().then(() => { M.renderCats(); fillCats(); }); }

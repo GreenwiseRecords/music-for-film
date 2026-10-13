@@ -58,6 +58,9 @@ main{display:grid;grid-template-columns:250px 1fr;gap:0;min-height:60vh}
 .pbtn{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;background:var(--panel2)}
 .tr .right{display:flex;gap:6px;align-items:center}
 .noaud{font-size:11px;color:#7c8492}
+.shbtn{padding:5px 8px;font-size:13px;line-height:1}
+.shbtn:hover{border-color:var(--gold);color:var(--gold2)}
+#shareNow:hover{border-color:var(--gold);color:var(--gold2)}
 .del{color:var(--red);border-color:#3a2523}
 .empty{color:var(--dim);padding:40px 12px;text-align:center}
 
